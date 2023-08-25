@@ -18,3 +18,7 @@ The data itself is available via our [ZSCAPE website](https://zscape_site.url.te
 ## Features
 
 - List the key features of your project.
+
+## License
+
+This project is licensed under the MIT License.
