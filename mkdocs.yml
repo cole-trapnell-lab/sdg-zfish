@@ -1,0 +1,19 @@
+site_name: ZSCAPE - Zebrafish Atlas of Perturbed Embryos
+theme:
+  palette:
+    primary: indigo
+    accent: teal
+  name: material
+  language: en
+  logo: assets/ben_logo_embryo.png
+
+repo_url: https://github.com/cole-trapnell-lab/sdg-zfish
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: |
+  &copy 2023 <a href="https://github.com/cole-trapnell-lab"  target="_blank" rel="noopener">Cole Trapnell</a>
