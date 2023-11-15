@@ -1,6 +1,7 @@
-## Saunders, Srivatsan, et al. (2023)
+## Saunders, Srivatsan, et al. Nature (2023) - Embryo-scale reverse genetics at single-cell resolution
 ## This script contains code to generate plots for Figure 3 and EDF 15 
-## from processed data files available in the GEO repository GSE202639 or available via Github.
+## from processed data files available in this github repository ("data" folder), at https://cole-trapnell-lab.github.io/zscape/
+## or in the GEO repository GSE202639.
 
 # startup ---------------------------------------------------
 suppressPackageStartupMessages({
@@ -16,7 +17,6 @@ suppressPackageStartupMessages({
   library(gprofiler2)
 })
 
-setwd("/Users/laurensaunders/Dropbox (Cole Trapnell's Lab)/Projects/GAP/GAP_code/code_to_submit")
 source("saunders_srivatsan_2023_utils.R")
 
 # Figure 3a ------------------------------------------------

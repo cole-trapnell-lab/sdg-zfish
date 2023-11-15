@@ -1,5 +1,7 @@
-## Saunders, Srivatsan, et al. (2023)
-## This script contains code to generate plots for Figure 1 from processed data files available in the GEO repository GSE202639.
+## Saunders, Srivatsan, et al. Nature (2023) - Embryo-scale reverse genetics at single-cell resolution
+## This script contains code to generate plots for Figure 1 
+## from processed data files available in this github repository ("data" folder), at https://cole-trapnell-lab.github.io/zscape/
+## or in the GEO repository GSE202639.
 ## Included here is also code for Extended data figure 6
 
 # Startup -------------------------------------------

@@ -1,4 +1,4 @@
-# Utility functions for Saunders, Srivatsan, et al., 2023
+# Utility functions for Saunders, Srivatsan, et al. Nature (2023)
 
 # extract coordinates for a PAGA graph from a cell data set 
 get_paga_graph <- function(cds, reduction_method = "UMAP") {

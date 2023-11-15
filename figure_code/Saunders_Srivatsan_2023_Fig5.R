@@ -1,4 +1,4 @@
-## Saunders, Srivatsan, et al. (2023)
+## Saunders, Srivatsan, et al. Nature (2023) - Embryo-scale reverse genetics at single-cell resolution
 ## This script contains code to generate plots for Figure 5
 ## from processed data files available in the GEO repository GSE202639 or available via Github.
 

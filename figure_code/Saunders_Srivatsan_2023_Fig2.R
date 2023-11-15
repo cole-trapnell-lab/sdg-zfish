@@ -1,5 +1,7 @@
-## Saunders, Srivatsan, et al. (2023)
-## This script contains code to generate plots for Figure 2 from processed data files available in the GEO repository GSE202639 or available via Github.
+## Saunders, Srivatsan, et al. Nature (2023) - Embryo-scale reverse genetics at single-cell resolution
+## This script contains code to generate plots for Figure 2 
+## from processed data files available in this github repository ("data" folder), at https://cole-trapnell-lab.github.io/zscape/
+## or in the GEO repository GSE202639.
 ## Included here is also code for Extended data figures 12 and 14 
 
 # startup ---------------------------------------------------
@@ -116,7 +118,7 @@ ggsave("fig2c_ctrl-only_36h_emb_umap.pdf",
 
 # Figure 2d ---------------------------------------------------------------
 
-sig_df = fread("sig_broadtype_count_per-genotype-timepoint_q05_fc-pt5.csv", sep = ",", stringsAsFactors = F, 
+sig_df = fread("data/sig_broadtype_count_per-genotype-timepoint_q05_fc-pt5.csv", sep = ",", stringsAsFactors = F, 
                  data.table = F)
 
 geno_order = c("cdx4",
