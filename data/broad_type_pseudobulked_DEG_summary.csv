@@ -1,0 +1,2078 @@
+mutant,cell.type,n.degs,tissue
+cdx4,basal cell,161,Connective Tissue
+cdx4,basal cell,161,Epidermis
+cdx4,chondrocranium,121,Pharyngeal Arch
+cdx4,periderm,97,Epidermis
+cdx4,jaw chondrocyte,85,Pharyngeal Arch
+cdx4,"neurons (differentiating, contains peripheral)",77,Central Nervous System
+cdx4,mature fast muscle,63,Muscle
+cdx4,fin mesenchyme,57,Fin
+cdx4,fast-committed myocyte,39,Muscle
+cdx4,connective tissue-meninges-dermal FB,38,Connective Tissue
+cdx4,fin fold,31,Fin
+cdx4,"unknown (dcn+, col6+)",31,Muscle
+cdx4,differentiating neuron (hindbrain),29,Central Nervous System
+cdx4,notochord,27,Notochord
+cdx4,"head mesenchyme (maybe ventral, hand2+)",23,Pharyngeal Arch
+cdx4,pharyngeal arch (early),22,Pharyngeal Arch
+cdx4,head mesenchyme,19,Pharyngeal Arch
+cdx4,mature slow muscle,19,Muscle
+cdx4,neural progenitor (hindbrain R7-8),19,Central Nervous System
+cdx4,"neurons (gabaergic, glutamatergic)",19,Central Nervous System
+cdx4,head-eye connective tissue,18,Connective Tissue
+cdx4,neural progenitor (hindbrain),17,Central Nervous System
+cdx4,pharyngeal arch (NC-derived),17,Pharyngeal Arch
+cdx4,differentiating neuron 1,16,Central Nervous System
+cdx4,endothelium (dorsal aorta),15,Endothelial
+cdx4,floor plate,12,Central Nervous System
+cdx4,"pharyngeal arch (contains muscle, early cartilage)",12,Pharyngeal Arch
+cdx4,anterior migratory muscle,11,Muscle
+cdx4,fin bud mesoderm (pectoral),11,Fin
+cdx4,mesodermal progenitor cells (contains PSM),11,Paraxial Mesoderm
+cdx4,pronephros distal tubule,11,Kidney
+cdx4,cranial muscle (early),10,Pharyngeal Arch
+cdx4,intestine,10,Intestine
+cdx4,neuron (+ spinal cord),10,Central Nervous System
+cdx4,differentiating neuron 2,9,Central Nervous System
+cdx4,neural crest + pigment cell progenitor,9,Pigment
+cdx4,retinal neuron,8,Eye
+cdx4,cranial muscle (progenitor),7,Pharyngeal Arch
+cdx4,glia,7,Central Nervous System
+cdx4,glia,7,CNS/Neural crest
+cdx4,neuromast support cell,7,Lateral Line
+cdx4,"eye, optic cup",6,Eye
+cdx4,neural tube-like connective tissue (+ taste bud),6,Connective Tissue
+cdx4,"neuron (cranial ganglia sensory, Rohon-Beard)",6,Peripheral Nervous System
+cdx4,pectoral fin bud (osteoblast+),6,Fin
+cdx4,"cranial muscle (non-somitic, fast-twitch)",5,Muscle
+cdx4,ionocyte-goblet cell,5,Epidermis
+cdx4,melanophore,5,Epidermis
+cdx4,retinal pigmented epithelium (early),5,Eye
+cdx4,hatching gland,4,Hatching Gland
+cdx4,hypochord,4,Hypochord
+cdx4,myoblast,4,Muscle
+cdx4,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+cdx4,posterior spinal cord progenitors,4,Central Nervous System
+cdx4,pronephric duct,4,Kidney
+cdx4,thyroid follicle cell,4,Endocrine
+cdx4,KA neuron,3,Central Nervous System
+cdx4,"neuron (telencephalon, glutamatergic)",3,Central Nervous System
+cdx4,pronephros proximal tubule,3,Kidney
+cdx4,xanthophore,3,Epidermis
+cdx4,contains head vasculature?,2,Connective Tissue
+cdx4,endothelium (vein + early artery),2,Endothelial
+cdx4,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+cdx4,satellite cells,2,Muscle
+cdx4,slow-committed myocyte,2,Muscle
+cdx4,cranial muscle (mid),1,Pharyngeal Arch
+cdx4,"endothelium (f8+, clic2+)",1,Endothelial
+cdx4,hair cell,1,Lateral Line
+cdx4,iridophore,1,Pigment
+cdx4,lens,1,Eye
+cdx4,liver,1,Liver
+cdx4,motor neuron,1,Central Nervous System
+cdx4,myeloid cell,1,Blood
+cdx4,"neurons (gabaergic, glutamatergic; contains Purkinje)",1,Central Nervous System
+cdx4,olfactory vesicle-bulb,1,Olfactory
+cdx4,pancreas,1,Pancreas
+cdx4,primordial germ cell,1,Germ Line
+cdx4,pronephric podocyte,1,Kidney
+cdx4,red blood cell,1,Blood
+cdx4-cdx1a,enveloping layer (EVL),323,Epidermis
+cdx4-cdx1a,jaw chondrocyte,296,Pharyngeal Arch
+cdx4-cdx1a,periderm,271,Epidermis
+cdx4-cdx1a,basal cell,134,Connective Tissue
+cdx4-cdx1a,basal cell,134,Epidermis
+cdx4-cdx1a,fast-committed myocyte,120,Muscle
+cdx4-cdx1a,mature fast muscle,84,Muscle
+cdx4-cdx1a,notochord,78,Notochord
+cdx4-cdx1a,connective tissue-meninges-dermal FB,67,Connective Tissue
+cdx4-cdx1a,"neurons (differentiating, contains peripheral)",56,Central Nervous System
+cdx4-cdx1a,fin mesenchyme,49,Fin
+cdx4-cdx1a,floor plate,38,Central Nervous System
+cdx4-cdx1a,head mesenchyme,38,Pharyngeal Arch
+cdx4-cdx1a,anterior migratory muscle,35,Muscle
+cdx4-cdx1a,"head mesenchyme (maybe ventral, hand2+)",35,Pharyngeal Arch
+cdx4-cdx1a,endothelium (dorsal aorta),34,Endothelial
+cdx4-cdx1a,neural progenitor (hindbrain),33,Central Nervous System
+cdx4-cdx1a,mature slow muscle,32,Muscle
+cdx4-cdx1a,head-eye connective tissue,31,Connective Tissue
+cdx4-cdx1a,pharyngeal arch (early),29,Pharyngeal Arch
+cdx4-cdx1a,neural progenitor (hindbrain R7-8),28,Central Nervous System
+cdx4-cdx1a,pharyngeal arch (NC-derived),26,Pharyngeal Arch
+cdx4-cdx1a,cranial muscle (progenitor),22,Pharyngeal Arch
+cdx4-cdx1a,pronephros proximal tubule,20,Kidney
+cdx4-cdx1a,fin fold,19,Fin
+cdx4-cdx1a,myoblast,18,Muscle
+cdx4-cdx1a,"neurons (gabaergic, glutamatergic)",18,Central Nervous System
+cdx4-cdx1a,cranial muscle (early),15,Pharyngeal Arch
+cdx4-cdx1a,differentiating neuron (hindbrain),14,Central Nervous System
+cdx4-cdx1a,melanophore,13,Epidermis
+cdx4-cdx1a,pronephric duct,11,Kidney
+cdx4-cdx1a,retinal pigmented epithelium (early),11,Eye
+cdx4-cdx1a,neural crest + pigment cell progenitor,10,Pigment
+cdx4-cdx1a,"neurons (gabaergic, glutamatergic; contains Purkinje)",9,Central Nervous System
+cdx4-cdx1a,"cranial muscle (non-somitic, fast-twitch)",8,Muscle
+cdx4-cdx1a,"neuron (cranial ganglia sensory, Rohon-Beard)",8,Peripheral Nervous System
+cdx4-cdx1a,"pharyngeal arch (contains muscle, early cartilage)",8,Pharyngeal Arch
+cdx4-cdx1a,cranial muscle (late),7,Muscle
+cdx4-cdx1a,differentiating neuron 1,7,Central Nervous System
+cdx4-cdx1a,intestine,7,Intestine
+cdx4-cdx1a,ionocyte-goblet cell,7,Epidermis
+cdx4-cdx1a,neural progenitor (telencephalon-diencephalon),7,Central Nervous System
+cdx4-cdx1a,neuromast support cell,7,Lateral Line
+cdx4-cdx1a,mesodermal progenitor cells (contains PSM),6,Paraxial Mesoderm
+cdx4-cdx1a,pectoral fin bud (osteoblast+),6,Fin
+cdx4-cdx1a,cardiomyocyte,5,Heart
+cdx4-cdx1a,posterior spinal cord progenitors,5,Central Nervous System
+cdx4-cdx1a,pronephros distal tubule,5,Kidney
+cdx4-cdx1a,cranial neural crest,4,Cranial NC
+cdx4-cdx1a,"endothelium (f8+, clic2+)",4,Endothelial
+cdx4-cdx1a,fin bud mesoderm (pectoral),4,Fin
+cdx4-cdx1a,lens,4,Eye
+cdx4-cdx1a,myeloid cell,4,Blood
+cdx4-cdx1a,neural progenitor (MHB),4,Central Nervous System
+cdx4-cdx1a,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+cdx4-cdx1a,thyroid follicle cell,4,Endocrine
+cdx4-cdx1a,xanthophore,4,Epidermis
+cdx4-cdx1a,endothelium (vein + early artery),3,Endothelial
+cdx4-cdx1a,hatching gland,3,Hatching Gland
+cdx4-cdx1a,iridophore,3,Pigment
+cdx4-cdx1a,motor neuron,3,Central Nervous System
+cdx4-cdx1a,neural tube-like connective tissue (+ taste bud),3,Connective Tissue
+cdx4-cdx1a,retinal neuron,3,Eye
+cdx4-cdx1a,satellite cells,3,Muscle
+cdx4-cdx1a,contains head vasculature?,2,Connective Tissue
+cdx4-cdx1a,hypochord,2,Hypochord
+cdx4-cdx1a,KA neuron,2,Central Nervous System
+cdx4-cdx1a,"neuron (telencephalon, glutamatergic)",2,Central Nervous System
+cdx4-cdx1a,posterior lateral line primordium,2,Lateral Line
+cdx4-cdx1a,slow-committed myocyte,2,Muscle
+cdx4-cdx1a,differentiating neuron 2,1,Central Nervous System
+cdx4-cdx1a,head mesenchyme-PA cartilage,1,Pharyngeal Arch
+cdx4-cdx1a,hypophysis-locus coeruleus,1,Central Nervous System
+cdx4-cdx1a,neuron (+ spinal cord),1,Central Nervous System
+cdx4-cdx1a,pancreas,1,Pancreas
+cdx4-cdx1a,pronephric podocyte,1,Kidney
+cdx4-cdx1a,red blood cell,1,Blood
+cdx4-cdx1a,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+cdx4-cdx1a,support cells-otic vesicle,1,Ear
+egr2b,periderm,382,Epidermis
+egr2b,hatching gland,150,Hatching Gland
+egr2b,neural progenitor (hindbrain),114,Central Nervous System
+egr2b,basal cell,91,Connective Tissue
+egr2b,basal cell,91,Epidermis
+egr2b,fast-committed myocyte,83,Muscle
+egr2b,mature fast muscle,76,Muscle
+egr2b,connective tissue-meninges-dermal FB,57,Connective Tissue
+egr2b,neural progenitor (hindbrain R7-8),43,Central Nervous System
+egr2b,notochord,36,Notochord
+egr2b,mature slow muscle,33,Muscle
+egr2b,"eye, optic cup",27,Eye
+egr2b,fin mesenchyme,27,Fin
+egr2b,pharyngeal arch (NC-derived),26,Pharyngeal Arch
+egr2b,endothelium (dorsal aorta),25,Endothelial
+egr2b,neural progenitor (telencephalon-diencephalon),25,Central Nervous System
+egr2b,"head mesenchyme (maybe ventral, hand2+)",24,Pharyngeal Arch
+egr2b,neural progenitor (MHB),24,Central Nervous System
+egr2b,"pharyngeal arch (contains muscle, early cartilage)",24,Pharyngeal Arch
+egr2b,"neurons (differentiating, contains peripheral)",23,Central Nervous System
+egr2b,head-eye connective tissue,21,Connective Tissue
+egr2b,lens,21,Eye
+egr2b,mesodermal progenitor cells (contains PSM),21,Paraxial Mesoderm
+egr2b,endothelium (vein + early artery),20,Endothelial
+egr2b,"neurons (gabaergic, glutamatergic)",20,Central Nervous System
+egr2b,"neurons (gabaergic, glutamatergic; contains Purkinje)",19,Central Nervous System
+egr2b,fin fold,18,Fin
+egr2b,intestine,18,Intestine
+egr2b,retinal pigmented epithelium (early),17,Eye
+egr2b,cranial muscle (mid),15,Pharyngeal Arch
+egr2b,head mesenchyme,14,Pharyngeal Arch
+egr2b,melanophore,13,Epidermis
+egr2b,red blood cell,12,Blood
+egr2b,retinal neuron,12,Eye
+egr2b,anterior migratory muscle,10,Muscle
+egr2b,motor neuron,10,Central Nervous System
+egr2b,pharyngeal arch (early),10,Pharyngeal Arch
+egr2b,neural crest + pigment cell progenitor,9,Pigment
+egr2b,neural tube-like connective tissue (+ taste bud),9,Connective Tissue
+egr2b,posterior spinal cord progenitors,9,Central Nervous System
+egr2b,differentiating neuron 1,8,Central Nervous System
+egr2b,floor plate,8,Central Nervous System
+egr2b,glia,8,Central Nervous System
+egr2b,glia,8,CNS/Neural crest
+egr2b,head mesenchyme-PA cartilage,8,Pharyngeal Arch
+egr2b,pronephros proximal tubule,8,Kidney
+egr2b,"unknown (dcn+, col6+)",8,Muscle
+egr2b,xanthophore,8,Epidermis
+egr2b,differentiating neuron 2,7,Central Nervous System
+egr2b,dorsal spinal cord neuron,7,Central Nervous System
+egr2b,iridophore,7,Pigment
+egr2b,myeloid cell,7,Blood
+egr2b,myoblast,7,Muscle
+egr2b,slow-committed myocyte,7,Muscle
+egr2b,support cells-otic vesicle,7,Ear
+egr2b,cranial muscle (early),6,Pharyngeal Arch
+egr2b,cranial muscle (progenitor),6,Pharyngeal Arch
+egr2b,liver,6,Liver
+egr2b,pectoral fin bud (osteoblast+),6,Fin
+egr2b,contains head vasculature?,5,Connective Tissue
+egr2b,differentiating neuron (hindbrain),5,Central Nervous System
+egr2b,pronephros distal tubule,5,Kidney
+egr2b,thyroid follicle cell,5,Endocrine
+egr2b,cranial neural crest,4,Cranial NC
+egr2b,"endothelium (f8+, clic2+)",4,Endothelial
+egr2b,fin bud mesoderm (pectoral),4,Fin
+egr2b,hypochord,4,Hypochord
+egr2b,KA neuron,4,Central Nervous System
+egr2b,neuromast support cell,4,Lateral Line
+egr2b,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+egr2b,posterior lateral line primordium,4,Lateral Line
+egr2b,cardiomyocyte,3,Heart
+egr2b,"neuron (cranial ganglia sensory, Rohon-Beard)",3,Peripheral Nervous System
+egr2b,primordial germ cell,3,Germ Line
+egr2b,satellite cells,3,Muscle
+egr2b,ionocyte-goblet cell,2,Epidermis
+egr2b,"neuron (telencephalon, glutamatergic)",2,Central Nervous System
+egr2b,pharynx,2,Pharynx
+egr2b,chondrocranium,1,Pharyngeal Arch
+egr2b,"cranial muscle (non-somitic, fast-twitch)",1,Muscle
+egr2b,neuron (+ spinal cord),1,Central Nervous System
+egr2b,olfactory vesicle-bulb,1,Olfactory
+egr2b,pronephric duct,1,Kidney
+egr2b,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+epha4a,periderm,488,Epidermis
+epha4a,hatching gland,183,Hatching Gland
+epha4a,neural progenitor (hindbrain),98,Central Nervous System
+epha4a,basal cell,97,Connective Tissue
+epha4a,basal cell,97,Epidermis
+epha4a,fast-committed myocyte,80,Muscle
+epha4a,connective tissue-meninges-dermal FB,68,Connective Tissue
+epha4a,mature fast muscle,50,Muscle
+epha4a,"head mesenchyme (maybe ventral, hand2+)",37,Pharyngeal Arch
+epha4a,neural progenitor (hindbrain R7-8),33,Central Nervous System
+epha4a,head-eye connective tissue,26,Connective Tissue
+epha4a,mature slow muscle,26,Muscle
+epha4a,"neurons (differentiating, contains peripheral)",26,Central Nervous System
+epha4a,pharyngeal arch (NC-derived),24,Pharyngeal Arch
+epha4a,fin fold,23,Fin
+epha4a,neural tube-like connective tissue (+ taste bud),22,Connective Tissue
+epha4a,endothelium (dorsal aorta),20,Endothelial
+epha4a,"eye, optic cup",20,Eye
+epha4a,"pharyngeal arch (contains muscle, early cartilage)",19,Pharyngeal Arch
+epha4a,intestine,18,Intestine
+epha4a,retinal pigmented epithelium (early),18,Eye
+epha4a,neural progenitor (MHB),17,Central Nervous System
+epha4a,notochord,17,Notochord
+epha4a,retinal neuron,16,Eye
+epha4a,endothelium (vein + early artery),15,Endothelial
+epha4a,fin mesenchyme,14,Fin
+epha4a,glia,13,Central Nervous System
+epha4a,glia,13,CNS/Neural crest
+epha4a,melanophore,13,Epidermis
+epha4a,myeloid cell,13,Blood
+epha4a,neural progenitor (telencephalon-diencephalon),13,Central Nervous System
+epha4a,thyroid follicle cell,13,Endocrine
+epha4a,contains head vasculature?,12,Connective Tissue
+epha4a,head mesenchyme-PA cartilage,12,Pharyngeal Arch
+epha4a,xanthophore,11,Epidermis
+epha4a,dorsal spinal cord neuron,10,Central Nervous System
+epha4a,mesodermal progenitor cells (contains PSM),10,Paraxial Mesoderm
+epha4a,pharyngeal arch (early),10,Pharyngeal Arch
+epha4a,cranial muscle (mid),9,Pharyngeal Arch
+epha4a,head mesenchyme,9,Pharyngeal Arch
+epha4a,"neurons (gabaergic, glutamatergic)",9,Central Nervous System
+epha4a,red blood cell,9,Blood
+epha4a,ionocyte-goblet cell,8,Epidermis
+epha4a,support cells-otic vesicle,8,Ear
+epha4a,anterior migratory muscle,7,Muscle
+epha4a,cranial muscle (early),7,Pharyngeal Arch
+epha4a,differentiating neuron (hindbrain),7,Central Nervous System
+epha4a,floor plate,7,Central Nervous System
+epha4a,iridophore,7,Pigment
+epha4a,differentiating neuron 1,6,Central Nervous System
+epha4a,"neurons (gabaergic, glutamatergic; contains Purkinje)",6,Central Nervous System
+epha4a,pectoral fin bud (osteoblast+),6,Fin
+epha4a,"cranial muscle (non-somitic, fast-twitch)",5,Muscle
+epha4a,KA neuron,5,Central Nervous System
+epha4a,neural crest + pigment cell progenitor,5,Pigment
+epha4a,"neuron (cranial ganglia sensory, Rohon-Beard)",5,Peripheral Nervous System
+epha4a,posterior spinal cord progenitors,5,Central Nervous System
+epha4a,cardiomyocyte,4,Heart
+epha4a,cranial muscle (progenitor),4,Pharyngeal Arch
+epha4a,hair cell,4,Lateral Line
+epha4a,lens,4,Eye
+epha4a,neuromast support cell,4,Lateral Line
+epha4a,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+epha4a,olfactory vesicle-bulb,4,Olfactory
+epha4a,pronephros distal tubule,4,Kidney
+epha4a,pronephros proximal tubule,4,Kidney
+epha4a,satellite cells,4,Muscle
+epha4a,slow-committed myocyte,4,Muscle
+epha4a,"endothelium (f8+, clic2+)",3,Endothelial
+epha4a,motor neuron,3,Central Nervous System
+epha4a,pharynx,3,Pharynx
+epha4a,posterior lateral line primordium,3,Lateral Line
+epha4a,"roof plate, flexural + subcommissural organ",3,Central Nervous System
+epha4a,differentiating neuron 2,2,Central Nervous System
+epha4a,jaw chondrocyte,2,Pharyngeal Arch
+epha4a,pronephric podocyte,2,Kidney
+epha4a,adrenal gland,1,Endocrine
+epha4a,cranial neural crest,1,Cranial NC
+epha4a,hypophysis-locus coeruleus,1,Central Nervous System
+epha4a,myoblast,1,Muscle
+epha4a,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+epha4a,pancreas,1,Pancreas
+epha4a,"unknown (dcn+, col6+)",1,Muscle
+foxd3,mature fast muscle,345,Muscle
+foxd3,lens,92,Eye
+foxd3,retinal neuron,83,Eye
+foxd3,periderm,73,Epidermis
+foxd3,basal cell,40,Connective Tissue
+foxd3,basal cell,40,Epidermis
+foxd3,hatching gland,35,Hatching Gland
+foxd3,mature slow muscle,33,Muscle
+foxd3,"pharyngeal arch (contains muscle, early cartilage)",24,Pharyngeal Arch
+foxd3,intestine,17,Intestine
+foxd3,cranial muscle (late),16,Muscle
+foxd3,glia,16,Central Nervous System
+foxd3,glia,16,CNS/Neural crest
+foxd3,iridophore,15,Pigment
+foxd3,jaw chondrocyte,15,Pharyngeal Arch
+foxd3,retinal pigmented epithelium (late),15,Retina
+foxd3,melanophore,12,Epidermis
+foxd3,pancreas,11,Pancreas
+foxd3,"neurons (gabaergic, glutamatergic; contains Purkinje)",10,Central Nervous System
+foxd3,xanthophore,10,Epidermis
+foxd3,neural tube-like connective tissue (+ taste bud),9,Connective Tissue
+foxd3,notochord,9,Notochord
+foxd3,chondrocranium,8,Pharyngeal Arch
+foxd3,cranial neural crest,6,Cranial NC
+foxd3,periocular mesenchyme,6,Head Mesoderm
+foxd3,fin fold,5,Fin
+foxd3,"neuron (cranial ganglia sensory, Rohon-Beard)",5,Peripheral Nervous System
+foxd3,cranial muscle (mid),4,Pharyngeal Arch
+foxd3,cardiomyocyte,3,Heart
+foxd3,differentiating neuron (hindbrain),3,Central Nervous System
+foxd3,hypophysis-locus coeruleus,3,Central Nervous System
+foxd3,neural progenitor (hindbrain R7-8),3,Central Nervous System
+foxd3,"neurons (gabaergic, glutamatergic)",3,Central Nervous System
+foxd3,osteoblast,3,Bone
+foxd3,red blood cell,3,Blood
+foxd3,support cells-otic vesicle,3,Ear
+foxd3,anterior migratory muscle,2,Muscle
+foxd3,connective tissue-meninges-dermal FB,2,Connective Tissue
+foxd3,differentiating neuron 2,2,Central Nervous System
+foxd3,hair cell,2,Lateral Line
+foxd3,"head mesenchyme (maybe ventral, hand2+)",2,Pharyngeal Arch
+foxd3,ionocyte-goblet cell,2,Epidermis
+foxd3,myeloid cell,2,Blood
+foxd3,pharyngeal arch (early),2,Pharyngeal Arch
+foxd3,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+foxd3,satellite cells,2,Muscle
+foxd3,cranial muscle (progenitor),1,Pharyngeal Arch
+foxd3,dorsal spinal cord neuron,1,Central Nervous System
+foxd3,endothelium (dorsal aorta),1,Endothelial
+foxd3,head mesenchyme,1,Pharyngeal Arch
+foxd3,head mesenchyme-PA cartilage,1,Pharyngeal Arch
+foxd3,head-eye connective tissue,1,Connective Tissue
+foxd3,hypochord,1,Hypochord
+foxd3,liver,1,Liver
+foxd3,neuron (+ spinal cord),1,Central Nervous System
+foxd3,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+foxd3,pharyngeal arch (NC-derived),1,Pharyngeal Arch
+foxd3,"unknown (dcn+, col6+)",1,Muscle
+foxd3,vascular smooth muscle,1,Pharyngeal Arch
+foxi1,periderm,290,Epidermis
+foxi1,basal cell,148,Connective Tissue
+foxi1,basal cell,148,Epidermis
+foxi1,mature fast muscle,101,Muscle
+foxi1,retinal neuron,89,Eye
+foxi1,connective tissue-meninges-dermal FB,77,Connective Tissue
+foxi1,lens,54,Eye
+foxi1,hatching gland,48,Hatching Gland
+foxi1,intestine,48,Intestine
+foxi1,"pharyngeal arch (contains muscle, early cartilage)",45,Pharyngeal Arch
+foxi1,cranial muscle (late),44,Muscle
+foxi1,fin fold,44,Fin
+foxi1,melanophore,38,Epidermis
+foxi1,"head mesenchyme (maybe ventral, hand2+)",35,Pharyngeal Arch
+foxi1,retinal pigmented epithelium (late),31,Retina
+foxi1,jaw chondrocyte,30,Pharyngeal Arch
+foxi1,notochord,28,Notochord
+foxi1,mature slow muscle,23,Muscle
+foxi1,neural tube-like connective tissue (+ taste bud),22,Connective Tissue
+foxi1,endothelium (dorsal aorta),21,Endothelial
+foxi1,retinal pigmented epithelium (early),18,Eye
+foxi1,"neurons (gabaergic, glutamatergic)",12,Central Nervous System
+foxi1,cardiomyocyte,11,Heart
+foxi1,anterior migratory muscle,10,Muscle
+foxi1,chondrocranium,10,Pharyngeal Arch
+foxi1,"neurons (gabaergic, glutamatergic; contains Purkinje)",10,Central Nervous System
+foxi1,pharyngeal arch (early),10,Pharyngeal Arch
+foxi1,endothelium (vein + early artery),9,Endothelial
+foxi1,support cells-otic vesicle,9,Ear
+foxi1,xanthophore,8,Epidermis
+foxi1,"cranial muscle (non-somitic, fast-twitch)",7,Muscle
+foxi1,head mesenchyme,7,Pharyngeal Arch
+foxi1,neural progenitor (telencephalon-diencephalon),7,Central Nervous System
+foxi1,myeloid cell,6,Blood
+foxi1,neuromast support cell,6,Lateral Line
+foxi1,pronephros proximal tubule,6,Kidney
+foxi1,osteoblast,5,Bone
+foxi1,cranial neural crest,4,Cranial NC
+foxi1,head mesenchyme-PA cartilage,4,Pharyngeal Arch
+foxi1,liver,4,Liver
+foxi1,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+foxi1,odontoblast,4,Tooth
+foxi1,olfactory vesicle-bulb,4,Olfactory
+foxi1,cranial muscle (early),3,Pharyngeal Arch
+foxi1,periocular mesenchyme,3,Head Mesoderm
+foxi1,red blood cell,3,Blood
+foxi1,fin bud mesoderm (pectoral),2,Fin
+foxi1,glia,2,Central Nervous System
+foxi1,glia,2,CNS/Neural crest
+foxi1,ionocyte-goblet cell,2,Epidermis
+foxi1,iridophore,2,Pigment
+foxi1,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+foxi1,pectoral fin bud (osteoblast+),2,Fin
+foxi1,pronephros distal tubule,2,Kidney
+foxi1,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+foxi1,cranial muscle (mid),1,Pharyngeal Arch
+foxi1,dorsal spinal cord neuron,1,Central Nervous System
+foxi1,"eye, optic cup",1,Eye
+foxi1,floor plate,1,Central Nervous System
+foxi1,hair cell,1,Lateral Line
+foxi1,motor neuron,1,Central Nervous System
+foxi1,neural progenitor (hindbrain R7-8),1,Central Nervous System
+foxi1,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+foxi1,"neurons (differentiating, contains peripheral)",1,Central Nervous System
+foxi1,pancreas,1,Pancreas
+foxi1,posterior lateral line primordium,1,Lateral Line
+foxi1,pronephric duct,1,Kidney
+foxi1,"unknown (dcn+, col6+)",1,Muscle
+foxi1,vascular smooth muscle,1,Pharyngeal Arch
+hand2,basal cell,67,Connective Tissue
+hand2,basal cell,67,Epidermis
+hand2,periderm,53,Epidermis
+hand2,endothelium (dorsal aorta),41,Endothelial
+hand2,connective tissue-meninges-dermal FB,36,Connective Tissue
+hand2,fin fold,36,Fin
+hand2,mature fast muscle,30,Muscle
+hand2,fin mesenchyme,25,Fin
+hand2,cardiomyocyte,23,Heart
+hand2,"head mesenchyme (maybe ventral, hand2+)",15,Pharyngeal Arch
+hand2,neural progenitor (hindbrain),15,Central Nervous System
+hand2,fast-committed myocyte,13,Muscle
+hand2,pharyngeal arch (NC-derived),11,Pharyngeal Arch
+hand2,"endothelium (f8+, clic2+)",10,Endothelial
+hand2,hatching gland,9,Hatching Gland
+hand2,chondrocranium,7,Pharyngeal Arch
+hand2,cranial muscle (mid),6,Pharyngeal Arch
+hand2,endothelium (vein + early artery),6,Endothelial
+hand2,head-eye connective tissue,6,Connective Tissue
+hand2,notochord,6,Notochord
+hand2,"cranial muscle (non-somitic, fast-twitch)",5,Muscle
+hand2,cranial muscle (progenitor),5,Pharyngeal Arch
+hand2,differentiating neuron (hindbrain),4,Central Nervous System
+hand2,fin bud mesoderm (pectoral),4,Fin
+hand2,head mesenchyme,4,Pharyngeal Arch
+hand2,"neurons (gabaergic, glutamatergic)",4,Central Nervous System
+hand2,pronephros proximal tubule,4,Kidney
+hand2,retinal neuron,4,Eye
+hand2,satellite cells,4,Muscle
+hand2,ionocyte-goblet cell,3,Epidermis
+hand2,lens,3,Eye
+hand2,mature slow muscle,3,Muscle
+hand2,pectoral fin bud (osteoblast+),3,Fin
+hand2,"pharyngeal arch (contains muscle, early cartilage)",3,Pharyngeal Arch
+hand2,pharyngeal arch (early),3,Pharyngeal Arch
+hand2,"unknown (dcn+, col6+)",3,Muscle
+hand2,anterior migratory muscle,2,Muscle
+hand2,contains head vasculature?,2,Connective Tissue
+hand2,cranial muscle (late),2,Muscle
+hand2,cranial neural crest,2,Cranial NC
+hand2,differentiating neuron 2,2,Central Nervous System
+hand2,dorsal spinal cord neuron,2,Central Nervous System
+hand2,"eye, optic cup",2,Eye
+hand2,floor plate,2,Central Nervous System
+hand2,glia,2,Central Nervous System
+hand2,glia,2,CNS/Neural crest
+hand2,head mesenchyme-PA cartilage,2,Pharyngeal Arch
+hand2,jaw chondrocyte,2,Pharyngeal Arch
+hand2,"neurons (differentiating, contains peripheral)",2,Central Nervous System
+hand2,pancreas,2,Pancreas
+hand2,posterior spinal cord progenitors,2,Central Nervous System
+hand2,red blood cell,2,Blood
+hand2,thyroid follicle cell,2,Endocrine
+hand2,adrenal gland,1,Endocrine
+hand2,cranial muscle (early),1,Pharyngeal Arch
+hand2,KA neuron,1,Central Nervous System
+hand2,liver,1,Liver
+hand2,myeloid cell,1,Blood
+hand2,neural crest + pigment cell progenitor,1,Pigment
+hand2,neural progenitor (hindbrain R7-8),1,Central Nervous System
+hand2,neural progenitor (MHB),1,Central Nervous System
+hand2,neural progenitor (telencephalon-diencephalon),1,Central Nervous System
+hand2,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+hand2,"neurons (gabaergic, glutamatergic; contains Purkinje)",1,Central Nervous System
+hand2,osteoblast,1,Bone
+hand2,periocular mesenchyme,1,Head Mesoderm
+hand2,primordial germ cell,1,Germ Line
+hand2,pronephric duct,1,Kidney
+hand2,pronephros distal tubule,1,Kidney
+hand2,retinal pigmented epithelium (early),1,Eye
+hand2,retinal pigmented epithelium (late),1,Retina
+hand2,xanthophore,1,Epidermis
+hgfa,chondrocranium,269,Pharyngeal Arch
+hgfa,mesodermal progenitor cells (contains PSM),146,Paraxial Mesoderm
+hgfa,periderm,13,Epidermis
+hgfa,mature fast muscle,12,Muscle
+hgfa,fast-committed myocyte,10,Muscle
+hgfa,thyroid follicle cell,6,Endocrine
+hgfa,connective tissue-meninges-dermal FB,5,Connective Tissue
+hgfa,hatching gland,5,Hatching Gland
+hgfa,"unknown (dcn+, col6+)",5,Muscle
+hgfa,iridophore,4,Pigment
+hgfa,endothelium (dorsal aorta),3,Endothelial
+hgfa,"eye, optic cup",3,Eye
+hgfa,notochord,3,Notochord
+hgfa,basal cell,2,Connective Tissue
+hgfa,basal cell,2,Epidermis
+hgfa,cranial muscle (mid),2,Pharyngeal Arch
+hgfa,cranial neural crest,2,Cranial NC
+hgfa,differentiating neuron 2,2,Central Nervous System
+hgfa,head mesenchyme,2,Pharyngeal Arch
+hgfa,hypochord,2,Hypochord
+hgfa,intestine,2,Intestine
+hgfa,pharyngeal arch (early),2,Pharyngeal Arch
+hgfa,posterior spinal cord progenitors,2,Central Nervous System
+hgfa,pronephros distal tubule,2,Kidney
+hgfa,pronephros proximal tubule,2,Kidney
+hgfa,retinal neuron,2,Eye
+hgfa,satellite cells,2,Muscle
+hgfa,cardiomyocyte,1,Heart
+hgfa,cranial muscle (progenitor),1,Pharyngeal Arch
+hgfa,differentiating neuron (hindbrain),1,Central Nervous System
+hgfa,differentiating neuron 1,1,Central Nervous System
+hgfa,floor plate,1,Central Nervous System
+hgfa,glia,1,Central Nervous System
+hgfa,glia,1,CNS/Neural crest
+hgfa,lens,1,Eye
+hgfa,liver,1,Liver
+hgfa,mature slow muscle,1,Muscle
+hgfa,neural progenitor (hindbrain R7-8),1,Central Nervous System
+hgfa,neural progenitor (telencephalon-diencephalon),1,Central Nervous System
+hgfa,neural tube-like connective tissue (+ taste bud),1,Connective Tissue
+hgfa,neuromast support cell,1,Lateral Line
+hgfa,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+hgfa,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+hgfa,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+hgfa,"neurons (differentiating, contains peripheral)",1,Central Nervous System
+hgfa,pancreas,1,Pancreas
+hgfa,pectoral fin bud (osteoblast+),1,Fin
+hgfa,"pharyngeal arch (contains muscle, early cartilage)",1,Pharyngeal Arch
+hgfa,pharynx,1,Pharynx
+hgfa,retinal pigmented epithelium (early),1,Eye
+hgfa,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+hgfa,xanthophore,1,Epidermis
+hgfa-mut,periderm,527,Epidermis
+hgfa-mut,mature fast muscle,164,Muscle
+hgfa-mut,pharyngeal arch (NC-derived),130,Pharyngeal Arch
+hgfa-mut,lens,105,Eye
+hgfa-mut,basal cell,97,Connective Tissue
+hgfa-mut,basal cell,97,Epidermis
+hgfa-mut,hatching gland,86,Hatching Gland
+hgfa-mut,retinal neuron,63,Eye
+hgfa-mut,melanophore,56,Epidermis
+hgfa-mut,"neurons (gabaergic, glutamatergic)",49,Central Nervous System
+hgfa-mut,endothelium (dorsal aorta),44,Endothelial
+hgfa-mut,connective tissue-meninges-dermal FB,43,Connective Tissue
+hgfa-mut,"neurons (gabaergic, glutamatergic; contains Purkinje)",32,Central Nervous System
+hgfa-mut,"head mesenchyme (maybe ventral, hand2+)",28,Pharyngeal Arch
+hgfa-mut,retinal pigmented epithelium (early),28,Eye
+hgfa-mut,fin fold,21,Fin
+hgfa-mut,"pharyngeal arch (contains muscle, early cartilage)",21,Pharyngeal Arch
+hgfa-mut,jaw chondrocyte,19,Pharyngeal Arch
+hgfa-mut,mature slow muscle,16,Muscle
+hgfa-mut,"neurons (differentiating, contains peripheral)",16,Central Nervous System
+hgfa-mut,endothelium (vein + early artery),15,Endothelial
+hgfa-mut,anterior migratory muscle,13,Muscle
+hgfa-mut,support cells-otic vesicle,13,Ear
+hgfa-mut,head mesenchyme,12,Pharyngeal Arch
+hgfa-mut,chondrocranium,11,Pharyngeal Arch
+hgfa-mut,notochord,11,Notochord
+hgfa-mut,intestine,10,Intestine
+hgfa-mut,xanthophore,10,Epidermis
+hgfa-mut,neural progenitor (telencephalon-diencephalon),9,Central Nervous System
+hgfa-mut,pharyngeal arch (early),9,Pharyngeal Arch
+hgfa-mut,dorsal spinal cord neuron,8,Central Nervous System
+hgfa-mut,glia,8,Central Nervous System
+hgfa-mut,glia,8,CNS/Neural crest
+hgfa-mut,iridophore,8,Pigment
+hgfa-mut,neural tube-like connective tissue (+ taste bud),7,Connective Tissue
+hgfa-mut,cranial muscle (mid),6,Pharyngeal Arch
+hgfa-mut,ionocyte-goblet cell,5,Epidermis
+hgfa-mut,neural progenitor (hindbrain R7-8),5,Central Nervous System
+hgfa-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",5,Peripheral Nervous System
+hgfa-mut,olfactory vesicle-bulb,5,Olfactory
+hgfa-mut,pronephros proximal tubule,5,Kidney
+hgfa-mut,"cranial muscle (non-somitic, fast-twitch)",4,Muscle
+hgfa-mut,fin bud mesoderm (pectoral),4,Fin
+hgfa-mut,floor plate,4,Central Nervous System
+hgfa-mut,head mesenchyme-PA cartilage,4,Pharyngeal Arch
+hgfa-mut,cranial neural crest,3,Cranial NC
+hgfa-mut,liver,3,Liver
+hgfa-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",3,Peripheral Nervous System
+hgfa-mut,osteoblast,3,Bone
+hgfa-mut,pronephros distal tubule,3,Kidney
+hgfa-mut,cardiomyocyte,2,Heart
+hgfa-mut,cranial muscle (early),2,Pharyngeal Arch
+hgfa-mut,differentiating neuron 1,2,Central Nervous System
+hgfa-mut,"eye, optic cup",2,Eye
+hgfa-mut,neural progenitor (MHB),2,Central Nervous System
+hgfa-mut,neuromast support cell,2,Lateral Line
+hgfa-mut,periocular mesenchyme,2,Head Mesoderm
+hgfa-mut,pronephric podocyte,2,Kidney
+hgfa-mut,thyroid follicle cell,2,Endocrine
+hgfa-mut,cranial muscle (late),1,Muscle
+hgfa-mut,differentiating neuron (hindbrain),1,Central Nervous System
+hgfa-mut,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+hgfa-mut,odontoblast,1,Tooth
+hgfa-mut,retinal pigmented epithelium (late),1,Retina
+hgfa-mut,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+hgfa-mut,"unknown (dcn+, col6+)",1,Muscle
+hoxb1a,periderm,112,Epidermis
+hoxb1a,mature fast muscle,62,Muscle
+hoxb1a,basal cell,32,Connective Tissue
+hoxb1a,basal cell,32,Epidermis
+hoxb1a,connective tissue-meninges-dermal FB,31,Connective Tissue
+hoxb1a,fast-committed myocyte,30,Muscle
+hoxb1a,mature slow muscle,28,Muscle
+hoxb1a,fin mesenchyme,26,Fin
+hoxb1a,neural progenitor (hindbrain),20,Central Nervous System
+hoxb1a,satellite cells,20,Muscle
+hoxb1a,notochord,19,Notochord
+hoxb1a,head mesenchyme,18,Pharyngeal Arch
+hoxb1a,endothelium (vein + early artery),17,Endothelial
+hoxb1a,"head mesenchyme (maybe ventral, hand2+)",17,Pharyngeal Arch
+hoxb1a,fin fold,16,Fin
+hoxb1a,"eye, optic cup",11,Eye
+hoxb1a,pharyngeal arch (NC-derived),10,Pharyngeal Arch
+hoxb1a,cardiomyocyte,9,Heart
+hoxb1a,cranial muscle (progenitor),9,Pharyngeal Arch
+hoxb1a,endothelium (dorsal aorta),9,Endothelial
+hoxb1a,melanophore,9,Epidermis
+hoxb1a,thyroid follicle cell,9,Endocrine
+hoxb1a,dorsal spinal cord neuron,8,Central Nervous System
+hoxb1a,head mesenchyme-PA cartilage,8,Pharyngeal Arch
+hoxb1a,xanthophore,8,Epidermis
+hoxb1a,anterior migratory muscle,7,Muscle
+hoxb1a,hatching gland,7,Hatching Gland
+hoxb1a,ionocyte-goblet cell,7,Epidermis
+hoxb1a,neural crest + pigment cell progenitor,7,Pigment
+hoxb1a,neural progenitor (hindbrain R7-8),7,Central Nervous System
+hoxb1a,neural progenitor (MHB),7,Central Nervous System
+hoxb1a,neural progenitor (telencephalon-diencephalon),7,Central Nervous System
+hoxb1a,neural tube-like connective tissue (+ taste bud),7,Connective Tissue
+hoxb1a,red blood cell,7,Blood
+hoxb1a,glia,6,Central Nervous System
+hoxb1a,glia,6,CNS/Neural crest
+hoxb1a,pharyngeal arch (early),6,Pharyngeal Arch
+hoxb1a,contains head vasculature?,5,Connective Tissue
+hoxb1a,differentiating neuron (hindbrain),5,Central Nervous System
+hoxb1a,head-eye connective tissue,5,Connective Tissue
+hoxb1a,intestine,5,Intestine
+hoxb1a,"pharyngeal arch (contains muscle, early cartilage)",5,Pharyngeal Arch
+hoxb1a,"unknown (dcn+, col6+)",5,Muscle
+hoxb1a,cranial muscle (early),4,Pharyngeal Arch
+hoxb1a,cranial muscle (mid),4,Pharyngeal Arch
+hoxb1a,floor plate,4,Central Nervous System
+hoxb1a,"neurons (differentiating, contains peripheral)",4,Central Nervous System
+hoxb1a,pronephros proximal tubule,4,Kidney
+hoxb1a,cranial muscle (late),3,Muscle
+hoxb1a,"endothelium (f8+, clic2+)",3,Endothelial
+hoxb1a,lens,3,Eye
+hoxb1a,myeloid cell,3,Blood
+hoxb1a,"neurons (gabaergic, glutamatergic; contains Purkinje)",3,Central Nervous System
+hoxb1a,"neurons (gabaergic, glutamatergic)",3,Central Nervous System
+hoxb1a,pancreas,3,Pancreas
+hoxb1a,pectoral fin bud (osteoblast+),3,Fin
+hoxb1a,periocular mesenchyme,3,Head Mesoderm
+hoxb1a,posterior spinal cord progenitors,3,Central Nervous System
+hoxb1a,retinal neuron,3,Eye
+hoxb1a,"cranial muscle (non-somitic, fast-twitch)",2,Muscle
+hoxb1a,differentiating neuron 1,2,Central Nervous System
+hoxb1a,liver,2,Liver
+hoxb1a,motor neuron,2,Central Nervous System
+hoxb1a,neuron (+ spinal cord),2,Central Nervous System
+hoxb1a,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+hoxb1a,osteoblast,2,Bone
+hoxb1a,pronephros distal tubule,2,Kidney
+hoxb1a,support cells-otic vesicle,2,Ear
+hoxb1a,cranial neural crest,1,Cranial NC
+hoxb1a,differentiating neuron 2,1,Central Nervous System
+hoxb1a,fin bud mesoderm (pectoral),1,Fin
+hoxb1a,hair cell,1,Lateral Line
+hoxb1a,hypochord,1,Hypochord
+hoxb1a,mesodermal progenitor cells (contains PSM),1,Paraxial Mesoderm
+hoxb1a,neuromast support cell,1,Lateral Line
+hoxb1a,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+hoxb1a,olfactory vesicle-bulb,1,Olfactory
+hoxb1a,primordial germ cell,1,Germ Line
+hoxb1a,pronephric duct,1,Kidney
+hoxb1a,retinal pigmented epithelium (early),1,Eye
+hoxb1a,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+mafba,retinal pigmented epithelium (late),164,Retina
+mafba,periderm,141,Epidermis
+mafba,mature fast muscle,115,Muscle
+mafba,basal cell,56,Connective Tissue
+mafba,basal cell,56,Epidermis
+mafba,fast-committed myocyte,47,Muscle
+mafba,neural progenitor (hindbrain),42,Central Nervous System
+mafba,mature slow muscle,34,Muscle
+mafba,connective tissue-meninges-dermal FB,33,Connective Tissue
+mafba,neural progenitor (hindbrain R7-8),25,Central Nervous System
+mafba,fin fold,22,Fin
+mafba,"head mesenchyme (maybe ventral, hand2+)",21,Pharyngeal Arch
+mafba,notochord,20,Notochord
+mafba,"eye, optic cup",18,Eye
+mafba,head-eye connective tissue,18,Connective Tissue
+mafba,neural progenitor (telencephalon-diencephalon),17,Central Nervous System
+mafba,pharyngeal arch (NC-derived),17,Pharyngeal Arch
+mafba,fin mesenchyme,16,Fin
+mafba,anterior migratory muscle,15,Muscle
+mafba,thyroid follicle cell,15,Endocrine
+mafba,endothelium (dorsal aorta),14,Endothelial
+mafba,endothelium (vein + early artery),14,Endothelial
+mafba,lens,14,Eye
+mafba,melanophore,14,Epidermis
+mafba,mesodermal progenitor cells (contains PSM),13,Paraxial Mesoderm
+mafba,intestine,12,Intestine
+mafba,osteoblast,12,Bone
+mafba,pharyngeal arch (early),12,Pharyngeal Arch
+mafba,red blood cell,11,Blood
+mafba,head mesenchyme,10,Pharyngeal Arch
+mafba,pectoral fin bud (osteoblast+),10,Fin
+mafba,floor plate,9,Central Nervous System
+mafba,neural crest + pigment cell progenitor,9,Pigment
+mafba,neural progenitor (MHB),9,Central Nervous System
+mafba,pronephros proximal tubule,9,Kidney
+mafba,pronephros distal tubule,8,Kidney
+mafba,xanthophore,8,Epidermis
+mafba,differentiating neuron (hindbrain),7,Central Nervous System
+mafba,head mesenchyme-PA cartilage,7,Pharyngeal Arch
+mafba,neural tube-like connective tissue (+ taste bud),7,Connective Tissue
+mafba,iridophore,6,Pigment
+mafba,contains head vasculature?,5,Connective Tissue
+mafba,cranial neural crest,5,Cranial NC
+mafba,differentiating neuron 1,5,Central Nervous System
+mafba,"endothelium (f8+, clic2+)",5,Endothelial
+mafba,ionocyte-goblet cell,5,Epidermis
+mafba,satellite cells,5,Muscle
+mafba,slow-committed myocyte,5,Muscle
+mafba,"unknown (dcn+, col6+)",5,Muscle
+mafba,cranial muscle (early),4,Pharyngeal Arch
+mafba,dorsal spinal cord neuron,4,Central Nervous System
+mafba,hatching gland,4,Hatching Gland
+mafba,liver,4,Liver
+mafba,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+mafba,olfactory vesicle-bulb,4,Olfactory
+mafba,cardiomyocyte,3,Heart
+mafba,fin bud mesoderm (pectoral),3,Fin
+mafba,myoblast,3,Muscle
+mafba,neuromast support cell,3,Lateral Line
+mafba,periocular mesenchyme,3,Head Mesoderm
+mafba,retinal neuron,3,Eye
+mafba,"cranial muscle (non-somitic, fast-twitch)",2,Muscle
+mafba,hair cell,2,Lateral Line
+mafba,myeloid cell,2,Blood
+mafba,"neurons (differentiating, contains peripheral)",2,Central Nervous System
+mafba,"pharyngeal arch (contains muscle, early cartilage)",2,Pharyngeal Arch
+mafba,posterior lateral line primordium,2,Lateral Line
+mafba,posterior spinal cord progenitors,2,Central Nervous System
+mafba,pronephric duct,2,Kidney
+mafba,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+mafba,support cells-otic vesicle,2,Ear
+mafba,chondrocranium,1,Pharyngeal Arch
+mafba,cranial muscle (late),1,Muscle
+mafba,cranial muscle (mid),1,Pharyngeal Arch
+mafba,cranial muscle (progenitor),1,Pharyngeal Arch
+mafba,glia,1,Central Nervous System
+mafba,glia,1,CNS/Neural crest
+mafba,hypochord,1,Hypochord
+mafba,hypophysis-locus coeruleus,1,Central Nervous System
+mafba,"neurons (gabaergic, glutamatergic; contains Purkinje)",1,Central Nervous System
+mafba,"neurons (gabaergic, glutamatergic)",1,Central Nervous System
+mafba,pancreas,1,Pancreas
+mafba,pharynx,1,Pharynx
+mafba,retinal pigmented epithelium (early),1,Eye
+mafba-mut,periderm,508,Epidermis
+mafba-mut,mature fast muscle,155,Muscle
+mafba-mut,basal cell,105,Connective Tissue
+mafba-mut,basal cell,105,Epidermis
+mafba-mut,vascular smooth muscle,95,Pharyngeal Arch
+mafba-mut,connective tissue-meninges-dermal FB,68,Connective Tissue
+mafba-mut,mature slow muscle,68,Muscle
+mafba-mut,neural progenitor (hindbrain),54,Central Nervous System
+mafba-mut,fin mesenchyme,42,Fin
+mafba-mut,fast-committed myocyte,41,Muscle
+mafba-mut,head-eye connective tissue,35,Connective Tissue
+mafba-mut,fin fold,34,Fin
+mafba-mut,hatching gland,27,Hatching Gland
+mafba-mut,melanophore,24,Epidermis
+mafba-mut,notochord,23,Notochord
+mafba-mut,endothelium (vein + early artery),22,Endothelial
+mafba-mut,neural progenitor (MHB),19,Central Nervous System
+mafba-mut,"eye, optic cup",17,Eye
+mafba-mut,retinal neuron,16,Eye
+mafba-mut,head mesenchyme,15,Pharyngeal Arch
+mafba-mut,"head mesenchyme (maybe ventral, hand2+)",15,Pharyngeal Arch
+mafba-mut,lens,15,Eye
+mafba-mut,retinal pigmented epithelium (early),15,Eye
+mafba-mut,red blood cell,14,Blood
+mafba-mut,thyroid follicle cell,13,Endocrine
+mafba-mut,neural crest + pigment cell progenitor,11,Pigment
+mafba-mut,xanthophore,11,Epidermis
+mafba-mut,head mesenchyme-PA cartilage,10,Pharyngeal Arch
+mafba-mut,cardiomyocyte,9,Heart
+mafba-mut,intestine,9,Intestine
+mafba-mut,neural progenitor (hindbrain R7-8),9,Central Nervous System
+mafba-mut,pharyngeal arch (early),9,Pharyngeal Arch
+mafba-mut,pronephros proximal tubule,9,Kidney
+mafba-mut,contains head vasculature?,8,Connective Tissue
+mafba-mut,cranial neural crest,8,Cranial NC
+mafba-mut,pronephros distal tubule,8,Kidney
+mafba-mut,satellite cells,8,Muscle
+mafba-mut,endothelium (dorsal aorta),7,Endothelial
+mafba-mut,floor plate,7,Central Nervous System
+mafba-mut,ionocyte-goblet cell,7,Epidermis
+mafba-mut,mesodermal progenitor cells (contains PSM),7,Paraxial Mesoderm
+mafba-mut,neural tube-like connective tissue (+ taste bud),7,Connective Tissue
+mafba-mut,pharyngeal arch (NC-derived),7,Pharyngeal Arch
+mafba-mut,differentiating neuron (hindbrain),6,Central Nervous System
+mafba-mut,"neurons (differentiating, contains peripheral)",6,Central Nervous System
+mafba-mut,cranial muscle (early),5,Pharyngeal Arch
+mafba-mut,"cranial muscle (non-somitic, fast-twitch)",5,Muscle
+mafba-mut,dorsal spinal cord neuron,5,Central Nervous System
+mafba-mut,pectoral fin bud (osteoblast+),5,Fin
+mafba-mut,periocular mesenchyme,5,Head Mesoderm
+mafba-mut,support cells-otic vesicle,5,Ear
+mafba-mut,anterior migratory muscle,4,Muscle
+mafba-mut,cranial muscle (mid),4,Pharyngeal Arch
+mafba-mut,myeloid cell,4,Blood
+mafba-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+mafba-mut,"neurons (gabaergic, glutamatergic; contains Purkinje)",4,Central Nervous System
+mafba-mut,pancreas,4,Pancreas
+mafba-mut,"pharyngeal arch (contains muscle, early cartilage)",4,Pharyngeal Arch
+mafba-mut,pronephric podocyte,4,Kidney
+mafba-mut,slow-committed myocyte,4,Muscle
+mafba-mut,cranial muscle (late),3,Muscle
+mafba-mut,cranial muscle (progenitor),3,Pharyngeal Arch
+mafba-mut,differentiating neuron 1,3,Central Nervous System
+mafba-mut,"endothelium (f8+, clic2+)",3,Endothelial
+mafba-mut,jaw chondrocyte,3,Pharyngeal Arch
+mafba-mut,KA neuron,3,Central Nervous System
+mafba-mut,liver,3,Liver
+mafba-mut,neural progenitor (telencephalon-diencephalon),3,Central Nervous System
+mafba-mut,neuromast support cell,3,Lateral Line
+mafba-mut,"neurons (gabaergic, glutamatergic)",3,Central Nervous System
+mafba-mut,pronephric duct,3,Kidney
+mafba-mut,adrenal gland,2,Endocrine
+mafba-mut,chondrocranium,2,Pharyngeal Arch
+mafba-mut,differentiating neuron 2,2,Central Nervous System
+mafba-mut,glia,2,Central Nervous System
+mafba-mut,glia,2,CNS/Neural crest
+mafba-mut,myoblast,2,Muscle
+mafba-mut,neuron (+ spinal cord),2,Central Nervous System
+mafba-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+mafba-mut,"neuron (telencephalon, glutamatergic)",2,Central Nervous System
+mafba-mut,posterior lateral line primordium,2,Lateral Line
+mafba-mut,posterior spinal cord progenitors,2,Central Nervous System
+mafba-mut,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+mafba-mut,fin bud mesoderm (pectoral),1,Fin
+mafba-mut,hair cell,1,Lateral Line
+mafba-mut,iridophore,1,Pigment
+mafba-mut,motor neuron,1,Central Nervous System
+mafba-mut,olfactory vesicle-bulb,1,Olfactory
+mafba-mut,primordial germ cell,1,Germ Line
+mafba-mut,"unknown (dcn+, col6+)",1,Muscle
+met,periderm,238,Epidermis
+met,satellite cells,159,Muscle
+met,hatching gland,118,Hatching Gland
+met,mesodermal progenitor cells (contains PSM),97,Paraxial Mesoderm
+met,thyroid follicle cell,45,Endocrine
+met,mature fast muscle,44,Muscle
+met,connective tissue-meninges-dermal FB,17,Connective Tissue
+met,"neurons (gabaergic, glutamatergic)",17,Central Nervous System
+met,mature slow muscle,16,Muscle
+met,basal cell,15,Connective Tissue
+met,basal cell,15,Epidermis
+met,fast-committed myocyte,14,Muscle
+met,fin fold,13,Fin
+met,dorsal spinal cord neuron,11,Central Nervous System
+met,osteoblast,11,Bone
+met,endothelium (vein + early artery),9,Endothelial
+met,"neurons (differentiating, contains peripheral)",9,Central Nervous System
+met,cranial muscle (mid),8,Pharyngeal Arch
+met,differentiating neuron (hindbrain),8,Central Nervous System
+met,"head mesenchyme (maybe ventral, hand2+)",8,Pharyngeal Arch
+met,olfactory vesicle-bulb,8,Olfactory
+met,retinal neuron,8,Eye
+met,anterior migratory muscle,7,Muscle
+met,notochord,7,Notochord
+met,"pharyngeal arch (contains muscle, early cartilage)",7,Pharyngeal Arch
+met,"unknown (dcn+, col6+)",7,Muscle
+met,cardiomyocyte,6,Heart
+met,"eye, optic cup",6,Eye
+met,intestine,6,Intestine
+met,lens,6,Eye
+met,melanophore,6,Epidermis
+met,pharyngeal arch (NC-derived),6,Pharyngeal Arch
+met,fin bud mesoderm (pectoral),5,Fin
+met,"neurons (gabaergic, glutamatergic; contains Purkinje)",5,Central Nervous System
+met,pronephric podocyte,5,Kidney
+met,pronephros proximal tubule,5,Kidney
+met,endothelium (dorsal aorta),4,Endothelial
+met,glia,4,Central Nervous System
+met,glia,4,CNS/Neural crest
+met,hair cell,4,Lateral Line
+met,head mesenchyme,4,Pharyngeal Arch
+met,head mesenchyme-PA cartilage,4,Pharyngeal Arch
+met,head-eye connective tissue,4,Connective Tissue
+met,ionocyte-goblet cell,4,Epidermis
+met,liver,4,Liver
+met,pancreas,4,Pancreas
+met,pronephros distal tubule,4,Kidney
+met,xanthophore,4,Epidermis
+met,differentiating neuron 1,3,Central Nervous System
+met,differentiating neuron 2,3,Central Nervous System
+met,floor plate,3,Central Nervous System
+met,neural progenitor (hindbrain),3,Central Nervous System
+met,neural progenitor (telencephalon-diencephalon),3,Central Nervous System
+met,neural tube-like connective tissue (+ taste bud),3,Connective Tissue
+met,pharyngeal arch (early),3,Pharyngeal Arch
+met,posterior spinal cord progenitors,3,Central Nervous System
+met,chondrocranium,2,Pharyngeal Arch
+met,contains head vasculature?,2,Connective Tissue
+met,cranial neural crest,2,Cranial NC
+met,neural progenitor (hindbrain R7-8),2,Central Nervous System
+met,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+met,retinal pigmented epithelium (early),2,Eye
+met,support cells-otic vesicle,2,Ear
+met,adrenal gland,1,Endocrine
+met,cranial muscle (late),1,Muscle
+met,cranial muscle (progenitor),1,Pharyngeal Arch
+met,"endothelium (f8+, clic2+)",1,Endothelial
+met,hypochord,1,Hypochord
+met,hypophysis-locus coeruleus,1,Central Nervous System
+met,iridophore,1,Pigment
+met,jaw chondrocyte,1,Pharyngeal Arch
+met,KA neuron,1,Central Nervous System
+met,motor neuron,1,Central Nervous System
+met,myeloid cell,1,Blood
+met,neural progenitor (MHB),1,Central Nervous System
+met,neuron (+ spinal cord),1,Central Nervous System
+met,periocular mesenchyme,1,Head Mesoderm
+met,pharynx,1,Pharynx
+met,posterior lateral line primordium,1,Lateral Line
+met,primordial germ cell,1,Germ Line
+met,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+met-mut,contains head vasculature?,566,Connective Tissue
+met-mut,mature fast muscle,28,Muscle
+met-mut,periderm,27,Epidermis
+met-mut,"neurons (differentiating, contains peripheral)",23,Central Nervous System
+met-mut,connective tissue-meninges-dermal FB,21,Connective Tissue
+met-mut,basal cell,15,Connective Tissue
+met-mut,basal cell,15,Epidermis
+met-mut,melanophore,10,Epidermis
+met-mut,"neurons (gabaergic, glutamatergic)",9,Central Nervous System
+met-mut,satellite cells,7,Muscle
+met-mut,fin fold,5,Fin
+met-mut,hatching gland,5,Hatching Gland
+met-mut,chondrocranium,4,Pharyngeal Arch
+met-mut,"eye, optic cup",4,Eye
+met-mut,neural tube-like connective tissue (+ taste bud),4,Connective Tissue
+met-mut,cranial muscle (early),3,Pharyngeal Arch
+met-mut,jaw chondrocyte,3,Pharyngeal Arch
+met-mut,mature slow muscle,3,Muscle
+met-mut,support cells-otic vesicle,3,Ear
+met-mut,cardiomyocyte,2,Heart
+met-mut,cranial muscle (late),2,Muscle
+met-mut,cranial muscle (mid),2,Pharyngeal Arch
+met-mut,differentiating neuron 1,2,Central Nervous System
+met-mut,endothelium (dorsal aorta),2,Endothelial
+met-mut,endothelium (vein + early artery),2,Endothelial
+met-mut,"head mesenchyme (maybe ventral, hand2+)",2,Pharyngeal Arch
+met-mut,intestine,2,Intestine
+met-mut,neuromast support cell,2,Lateral Line
+met-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+met-mut,"neurons (gabaergic, glutamatergic; contains Purkinje)",2,Central Nervous System
+met-mut,notochord,2,Notochord
+met-mut,"pharyngeal arch (contains muscle, early cartilage)",2,Pharyngeal Arch
+met-mut,pharyngeal arch (early),2,Pharyngeal Arch
+met-mut,xanthophore,2,Epidermis
+met-mut,anterior migratory muscle,1,Muscle
+met-mut,differentiating neuron (hindbrain),1,Central Nervous System
+met-mut,differentiating neuron 2,1,Central Nervous System
+met-mut,floor plate,1,Central Nervous System
+met-mut,hair cell,1,Lateral Line
+met-mut,head mesenchyme-PA cartilage,1,Pharyngeal Arch
+met-mut,iridophore,1,Pigment
+met-mut,myeloid cell,1,Blood
+met-mut,pronephric duct,1,Kidney
+met-mut,pronephros distal tubule,1,Kidney
+met-mut,retinal neuron,1,Eye
+met-mut,retinal pigmented epithelium (early),1,Eye
+met-mut,"unknown (dcn+, col6+)",1,Muscle
+noto,jaw chondrocyte,340,Pharyngeal Arch
+noto,mature fast muscle,120,Muscle
+noto,adrenal gland,69,Endocrine
+noto,basal cell,39,Connective Tissue
+noto,basal cell,39,Epidermis
+noto,periderm,39,Epidermis
+noto,fin fold,30,Fin
+noto,fast-committed myocyte,19,Muscle
+noto,mature slow muscle,18,Muscle
+noto,connective tissue-meninges-dermal FB,15,Connective Tissue
+noto,neural progenitor (hindbrain),13,Central Nervous System
+noto,head mesenchyme,12,Pharyngeal Arch
+noto,anterior migratory muscle,11,Muscle
+noto,"eye, optic cup",11,Eye
+noto,pharyngeal arch (early),11,Pharyngeal Arch
+noto,pronephros distal tubule,9,Kidney
+noto,cranial muscle (early),8,Pharyngeal Arch
+noto,neural progenitor (telencephalon-diencephalon),8,Central Nervous System
+noto,head-eye connective tissue,7,Connective Tissue
+noto,neural progenitor (MHB),7,Central Nervous System
+noto,fin mesenchyme,6,Fin
+noto,neural tube-like connective tissue (+ taste bud),6,Connective Tissue
+noto,notochord,6,Notochord
+noto,pronephros proximal tubule,5,Kidney
+noto,slow-committed myocyte,5,Muscle
+noto,cranial muscle (progenitor),4,Pharyngeal Arch
+noto,mesodermal progenitor cells (contains PSM),4,Paraxial Mesoderm
+noto,pharyngeal arch (NC-derived),4,Pharyngeal Arch
+noto,cranial muscle (mid),3,Pharyngeal Arch
+noto,differentiating neuron 1,3,Central Nervous System
+noto,endothelium (vein + early artery),3,Endothelial
+noto,floor plate,3,Central Nervous System
+noto,hatching gland,3,Hatching Gland
+noto,"head mesenchyme (maybe ventral, hand2+)",3,Pharyngeal Arch
+noto,neural progenitor (hindbrain R7-8),3,Central Nervous System
+noto,"neurons (gabaergic, glutamatergic)",3,Central Nervous System
+noto,pancreas,3,Pancreas
+noto,"pharyngeal arch (contains muscle, early cartilage)",3,Pharyngeal Arch
+noto,pharynx,3,Pharynx
+noto,support cells-otic vesicle,3,Ear
+noto,endothelium (dorsal aorta),2,Endothelial
+noto,"endothelium (f8+, clic2+)",2,Endothelial
+noto,hypochord,2,Hypochord
+noto,intestine,2,Intestine
+noto,myeloid cell,2,Blood
+noto,neuron (+ spinal cord),2,Central Nervous System
+noto,"neuron (telencephalon, glutamatergic)",2,Central Nervous System
+noto,"neurons (differentiating, contains peripheral)",2,Central Nervous System
+noto,"neurons (gabaergic, glutamatergic; contains Purkinje)",2,Central Nervous System
+noto,posterior spinal cord progenitors,2,Central Nervous System
+noto,red blood cell,2,Blood
+noto,thyroid follicle cell,2,Endocrine
+noto,contains head vasculature?,1,Connective Tissue
+noto,cranial muscle (late),1,Muscle
+noto,"cranial muscle (non-somitic, fast-twitch)",1,Muscle
+noto,differentiating neuron (hindbrain),1,Central Nervous System
+noto,dorsal spinal cord neuron,1,Central Nervous System
+noto,glia,1,Central Nervous System
+noto,glia,1,CNS/Neural crest
+noto,head mesenchyme-PA cartilage,1,Pharyngeal Arch
+noto,hypophysis-locus coeruleus,1,Central Nervous System
+noto,iridophore,1,Pigment
+noto,liver,1,Liver
+noto,melanophore,1,Epidermis
+noto,motor neuron,1,Central Nervous System
+noto,myoblast,1,Muscle
+noto,neural crest + pigment cell progenitor,1,Pigment
+noto,neuromast support cell,1,Lateral Line
+noto,primordial germ cell,1,Germ Line
+noto,pronephric duct,1,Kidney
+noto,retinal neuron,1,Eye
+noto,retinal pigmented epithelium (early),1,Eye
+noto,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+noto,satellite cells,1,Muscle
+noto,xanthophore,1,Epidermis
+noto-mut,mature fast muscle,682,Muscle
+noto-mut,periderm,567,Epidermis
+noto-mut,basal cell,302,Connective Tissue
+noto-mut,basal cell,302,Epidermis
+noto-mut,mature slow muscle,235,Muscle
+noto-mut,neural progenitor (hindbrain),212,Central Nervous System
+noto-mut,anterior migratory muscle,175,Muscle
+noto-mut,fast-committed myocyte,172,Muscle
+noto-mut,connective tissue-meninges-dermal FB,163,Connective Tissue
+noto-mut,head mesenchyme,123,Pharyngeal Arch
+noto-mut,fin mesenchyme,103,Fin
+noto-mut,neural progenitor (hindbrain R7-8),85,Central Nervous System
+noto-mut,"head mesenchyme (maybe ventral, hand2+)",81,Pharyngeal Arch
+noto-mut,hatching gland,78,Hatching Gland
+noto-mut,"eye, optic cup",60,Eye
+noto-mut,head-eye connective tissue,58,Connective Tissue
+noto-mut,mesodermal progenitor cells (contains PSM),57,Paraxial Mesoderm
+noto-mut,"pharyngeal arch (contains muscle, early cartilage)",56,Pharyngeal Arch
+noto-mut,pharyngeal arch (early),50,Pharyngeal Arch
+noto-mut,fin fold,47,Fin
+noto-mut,neural progenitor (MHB),47,Central Nervous System
+noto-mut,neural progenitor (telencephalon-diencephalon),43,Central Nervous System
+noto-mut,pharyngeal arch (NC-derived),42,Pharyngeal Arch
+noto-mut,xanthophore,41,Epidermis
+noto-mut,melanophore,36,Epidermis
+noto-mut,pronephros proximal tubule,30,Kidney
+noto-mut,retinal pigmented epithelium (early),30,Eye
+noto-mut,endothelium (dorsal aorta),29,Endothelial
+noto-mut,intestine,27,Intestine
+noto-mut,endothelium (vein + early artery),26,Endothelial
+noto-mut,"neurons (gabaergic, glutamatergic)",25,Central Nervous System
+noto-mut,"unknown (dcn+, col6+)",25,Muscle
+noto-mut,floor plate,24,Central Nervous System
+noto-mut,neural tube-like connective tissue (+ taste bud),24,Connective Tissue
+noto-mut,glia,22,Central Nervous System
+noto-mut,glia,22,CNS/Neural crest
+noto-mut,head mesenchyme-PA cartilage,22,Pharyngeal Arch
+noto-mut,pectoral fin bud (osteoblast+),22,Fin
+noto-mut,"neurons (differentiating, contains peripheral)",21,Central Nervous System
+noto-mut,contains head vasculature?,20,Connective Tissue
+noto-mut,pancreas,19,Pancreas
+noto-mut,pronephros distal tubule,19,Kidney
+noto-mut,"cranial muscle (non-somitic, fast-twitch)",18,Muscle
+noto-mut,myeloid cell,18,Blood
+noto-mut,adrenal gland,16,Endocrine
+noto-mut,neural crest + pigment cell progenitor,16,Pigment
+noto-mut,"neurons (gabaergic, glutamatergic; contains Purkinje)",15,Central Nervous System
+noto-mut,lens,14,Eye
+noto-mut,cranial muscle (early),13,Pharyngeal Arch
+noto-mut,myoblast,13,Muscle
+noto-mut,retinal neuron,13,Eye
+noto-mut,cranial neural crest,12,Cranial NC
+noto-mut,cardiomyocyte,11,Heart
+noto-mut,support cells-otic vesicle,11,Ear
+noto-mut,cranial muscle (progenitor),10,Pharyngeal Arch
+noto-mut,differentiating neuron 1,10,Central Nervous System
+noto-mut,neuromast support cell,10,Lateral Line
+noto-mut,notochord,10,Notochord
+noto-mut,pronephric podocyte,10,Kidney
+noto-mut,ionocyte-goblet cell,9,Epidermis
+noto-mut,posterior spinal cord progenitors,9,Central Nervous System
+noto-mut,red blood cell,9,Blood
+noto-mut,cranial muscle (mid),8,Pharyngeal Arch
+noto-mut,differentiating neuron (hindbrain),7,Central Nervous System
+noto-mut,liver,7,Liver
+noto-mut,satellite cells,7,Muscle
+noto-mut,dorsal spinal cord neuron,6,Central Nervous System
+noto-mut,neuron (+ spinal cord),5,Central Nervous System
+noto-mut,chondrocranium,4,Pharyngeal Arch
+noto-mut,hypochord,4,Hypochord
+noto-mut,iridophore,4,Pigment
+noto-mut,motor neuron,4,Central Nervous System
+noto-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+noto-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+noto-mut,periocular mesenchyme,4,Head Mesoderm
+noto-mut,pronephric duct,4,Kidney
+noto-mut,cranial muscle (late),3,Muscle
+noto-mut,"endothelium (f8+, clic2+)",3,Endothelial
+noto-mut,"roof plate, flexural + subcommissural organ",3,Central Nervous System
+noto-mut,slow-committed myocyte,3,Muscle
+noto-mut,fin bud mesoderm (pectoral),2,Fin
+noto-mut,hypophysis-locus coeruleus,2,Central Nervous System
+noto-mut,KA neuron,2,Central Nervous System
+noto-mut,"neuron (telencephalon, glutamatergic)",2,Central Nervous System
+noto-mut,osteoblast,2,Bone
+noto-mut,posterior lateral line primordium,2,Lateral Line
+noto-mut,primordial germ cell,2,Germ Line
+noto-mut,differentiating neuron 2,1,Central Nervous System
+noto-mut,jaw chondrocyte,1,Pharyngeal Arch
+noto-mut,pharynx,1,Pharynx
+noto-mut,thyroid follicle cell,1,Endocrine
+phox2a,mature fast muscle,24,Muscle
+phox2a,periderm,23,Epidermis
+phox2a,cranial muscle (mid),17,Pharyngeal Arch
+phox2a,fin fold,13,Fin
+phox2a,notochord,12,Notochord
+phox2a,retinal neuron,9,Eye
+phox2a,hatching gland,8,Hatching Gland
+phox2a,connective tissue-meninges-dermal FB,7,Connective Tissue
+phox2a,mature slow muscle,7,Muscle
+phox2a,neural tube-like connective tissue (+ taste bud),7,Connective Tissue
+phox2a,basal cell,6,Connective Tissue
+phox2a,basal cell,6,Epidermis
+phox2a,dorsal spinal cord neuron,5,Central Nervous System
+phox2a,endothelium (vein + early artery),5,Endothelial
+phox2a,"pharyngeal arch (contains muscle, early cartilage)",5,Pharyngeal Arch
+phox2a,fast-committed myocyte,4,Muscle
+phox2a,intestine,4,Intestine
+phox2a,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+phox2a,pectoral fin bud (osteoblast+),4,Fin
+phox2a,pronephros proximal tubule,4,Kidney
+phox2a,"unknown (dcn+, col6+)",4,Muscle
+phox2a,"head mesenchyme (maybe ventral, hand2+)",3,Pharyngeal Arch
+phox2a,neural progenitor (hindbrain R7-8),3,Central Nervous System
+phox2a,pronephric duct,3,Kidney
+phox2a,satellite cells,3,Muscle
+phox2a,thyroid follicle cell,3,Endocrine
+phox2a,anterior migratory muscle,2,Muscle
+phox2a,cranial muscle (progenitor),2,Pharyngeal Arch
+phox2a,endothelium (dorsal aorta),2,Endothelial
+phox2a,glia,2,Central Nervous System
+phox2a,glia,2,CNS/Neural crest
+phox2a,head mesenchyme,2,Pharyngeal Arch
+phox2a,hypochord,2,Hypochord
+phox2a,ionocyte-goblet cell,2,Epidermis
+phox2a,liver,2,Liver
+phox2a,melanophore,2,Epidermis
+phox2a,"neurons (gabaergic, glutamatergic; contains Purkinje)",2,Central Nervous System
+phox2a,"neurons (gabaergic, glutamatergic)",2,Central Nervous System
+phox2a,pharyngeal arch (early),2,Pharyngeal Arch
+phox2a,pronephric podocyte,2,Kidney
+phox2a,cardiomyocyte,1,Heart
+phox2a,chondrocranium,1,Pharyngeal Arch
+phox2a,contains head vasculature?,1,Connective Tissue
+phox2a,cranial muscle (early),1,Pharyngeal Arch
+phox2a,cranial neural crest,1,Cranial NC
+phox2a,"endothelium (f8+, clic2+)",1,Endothelial
+phox2a,fin bud mesoderm (pectoral),1,Fin
+phox2a,fin mesenchyme,1,Fin
+phox2a,floor plate,1,Central Nervous System
+phox2a,hypophysis-locus coeruleus,1,Central Nervous System
+phox2a,iridophore,1,Pigment
+phox2a,lens,1,Eye
+phox2a,motor neuron,1,Central Nervous System
+phox2a,neural progenitor (hindbrain),1,Central Nervous System
+phox2a,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+phox2a,periocular mesenchyme,1,Head Mesoderm
+phox2a,pharynx,1,Pharynx
+phox2a,posterior lateral line primordium,1,Lateral Line
+phox2a,primordial germ cell,1,Germ Line
+phox2a,pronephros distal tubule,1,Kidney
+phox2a,xanthophore,1,Epidermis
+smo,mature fast muscle,244,Muscle
+smo,fast-committed myocyte,118,Muscle
+smo,head mesenchyme,114,Pharyngeal Arch
+smo,retinal pigmented epithelium (early),111,Eye
+smo,anterior migratory muscle,104,Muscle
+smo,basal cell,100,Connective Tissue
+smo,basal cell,100,Epidermis
+smo,neural progenitor (hindbrain),86,Central Nervous System
+smo,periderm,75,Epidermis
+smo,"eye, optic cup",65,Eye
+smo,neural progenitor (telencephalon-diencephalon),56,Central Nervous System
+smo,neural progenitor (hindbrain R7-8),47,Central Nervous System
+smo,fin fold,46,Fin
+smo,mature slow muscle,44,Muscle
+smo,connective tissue-meninges-dermal FB,36,Connective Tissue
+smo,pancreas,36,Pancreas
+smo,head mesenchyme-PA cartilage,35,Pharyngeal Arch
+smo,"head mesenchyme (maybe ventral, hand2+)",34,Pharyngeal Arch
+smo,"pharyngeal arch (contains muscle, early cartilage)",34,Pharyngeal Arch
+smo,posterior spinal cord progenitors,33,Central Nervous System
+smo,support cells-otic vesicle,30,Ear
+smo,neural progenitor (MHB),29,Central Nervous System
+smo,pronephros distal tubule,28,Kidney
+smo,pharyngeal arch (early),27,Pharyngeal Arch
+smo,cranial muscle (early),25,Pharyngeal Arch
+smo,fin mesenchyme,23,Fin
+smo,neural tube-like connective tissue (+ taste bud),23,Connective Tissue
+smo,head-eye connective tissue,20,Connective Tissue
+smo,mesodermal progenitor cells (contains PSM),20,Paraxial Mesoderm
+smo,contains head vasculature?,19,Connective Tissue
+smo,cranial muscle (progenitor),16,Pharyngeal Arch
+smo,differentiating neuron (hindbrain),16,Central Nervous System
+smo,notochord,16,Notochord
+smo,differentiating neuron 1,15,Central Nervous System
+smo,endothelium (vein + early artery),15,Endothelial
+smo,pharynx,14,Pharynx
+smo,pharyngeal arch (NC-derived),13,Pharyngeal Arch
+smo,slow-committed myocyte,13,Muscle
+smo,intestine,11,Intestine
+smo,periocular mesenchyme,11,Head Mesoderm
+smo,"neurons (differentiating, contains peripheral)",9,Central Nervous System
+smo,cranial neural crest,8,Cranial NC
+smo,lens,8,Eye
+smo,floor plate,7,Central Nervous System
+smo,neuromast support cell,7,Lateral Line
+smo,"neurons (gabaergic, glutamatergic; contains Purkinje)",7,Central Nervous System
+smo,red blood cell,7,Blood
+smo,endothelium (dorsal aorta),6,Endothelial
+smo,glia,6,Central Nervous System
+smo,glia,6,CNS/Neural crest
+smo,myeloid cell,6,Blood
+smo,neuron (+ spinal cord),6,Central Nervous System
+smo,retinal neuron,6,Eye
+smo,satellite cells,6,Muscle
+smo,"cranial muscle (non-somitic, fast-twitch)",5,Muscle
+smo,hatching gland,5,Hatching Gland
+smo,hypophysis-locus coeruleus,5,Central Nervous System
+smo,ionocyte-goblet cell,5,Epidermis
+smo,neural crest + pigment cell progenitor,5,Pigment
+smo,xanthophore,5,Epidermis
+smo,differentiating neuron 2,4,Central Nervous System
+smo,motor neuron,4,Central Nervous System
+smo,myoblast,4,Muscle
+smo,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+smo,primordial germ cell,4,Germ Line
+smo,thyroid follicle cell,4,Endocrine
+smo,melanophore,3,Epidermis
+smo,pectoral fin bud (osteoblast+),3,Fin
+smo,pronephric podocyte,3,Kidney
+smo,cardiomyocyte,2,Heart
+smo,hair cell,2,Lateral Line
+smo,hypochord,2,Hypochord
+smo,iridophore,2,Pigment
+smo,liver,2,Liver
+smo,"neurons (gabaergic, glutamatergic)",2,Central Nervous System
+smo,olfactory vesicle-bulb,2,Olfactory
+smo,pronephric duct,2,Kidney
+smo,pronephros proximal tubule,2,Kidney
+smo,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+smo,"endothelium (f8+, clic2+)",1,Endothelial
+smo,fin bud mesoderm (pectoral),1,Fin
+smo,KA neuron,1,Central Nervous System
+smo,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+smo,posterior lateral line primordium,1,Lateral Line
+tbx1,periderm,63,Epidermis
+tbx1,basal cell,32,Connective Tissue
+tbx1,basal cell,32,Epidermis
+tbx1,mature fast muscle,30,Muscle
+tbx1,endothelium (dorsal aorta),25,Endothelial
+tbx1,neural tube-like connective tissue (+ taste bud),24,Connective Tissue
+tbx1,support cells-otic vesicle,24,Ear
+tbx1,fin fold,21,Fin
+tbx1,connective tissue-meninges-dermal FB,18,Connective Tissue
+tbx1,cranial muscle (early),15,Pharyngeal Arch
+tbx1,fast-committed myocyte,13,Muscle
+tbx1,pharyngeal arch (NC-derived),13,Pharyngeal Arch
+tbx1,neural progenitor (hindbrain),11,Central Nervous System
+tbx1,"pharyngeal arch (contains muscle, early cartilage)",10,Pharyngeal Arch
+tbx1,cranial muscle (mid),9,Pharyngeal Arch
+tbx1,fin mesenchyme,8,Fin
+tbx1,"head mesenchyme (maybe ventral, hand2+)",7,Pharyngeal Arch
+tbx1,cardiomyocyte,6,Heart
+tbx1,endothelium (vein + early artery),6,Endothelial
+tbx1,hatching gland,6,Hatching Gland
+tbx1,satellite cells,6,Muscle
+tbx1,glia,5,Central Nervous System
+tbx1,glia,5,CNS/Neural crest
+tbx1,mature slow muscle,5,Muscle
+tbx1,pharyngeal arch (early),5,Pharyngeal Arch
+tbx1,red blood cell,5,Blood
+tbx1,dorsal spinal cord neuron,4,Central Nervous System
+tbx1,notochord,4,Notochord
+tbx1,contains head vasculature?,3,Connective Tissue
+tbx1,cranial muscle (progenitor),3,Pharyngeal Arch
+tbx1,liver,3,Liver
+tbx1,"neurons (gabaergic, glutamatergic; contains Purkinje)",3,Central Nervous System
+tbx1,pancreas,3,Pancreas
+tbx1,pronephros proximal tubule,3,Kidney
+tbx1,cranial muscle (late),2,Muscle
+tbx1,"endothelium (f8+, clic2+)",2,Endothelial
+tbx1,"eye, optic cup",2,Eye
+tbx1,fin bud mesoderm (pectoral),2,Fin
+tbx1,floor plate,2,Central Nervous System
+tbx1,head-eye connective tissue,2,Connective Tissue
+tbx1,lens,2,Eye
+tbx1,motor neuron,2,Central Nervous System
+tbx1,myeloid cell,2,Blood
+tbx1,"neurons (differentiating, contains peripheral)",2,Central Nervous System
+tbx1,"neurons (gabaergic, glutamatergic)",2,Central Nervous System
+tbx1,periocular mesenchyme,2,Head Mesoderm
+tbx1,posterior lateral line primordium,2,Lateral Line
+tbx1,pronephros distal tubule,2,Kidney
+tbx1,chondrocranium,1,Pharyngeal Arch
+tbx1,cranial neural crest,1,Cranial NC
+tbx1,differentiating neuron (hindbrain),1,Central Nervous System
+tbx1,differentiating neuron 1,1,Central Nervous System
+tbx1,differentiating neuron 2,1,Central Nervous System
+tbx1,hair cell,1,Lateral Line
+tbx1,head mesenchyme-PA cartilage,1,Pharyngeal Arch
+tbx1,hypophysis-locus coeruleus,1,Central Nervous System
+tbx1,ionocyte-goblet cell,1,Epidermis
+tbx1,iridophore,1,Pigment
+tbx1,mesodermal progenitor cells (contains PSM),1,Paraxial Mesoderm
+tbx1,neural crest + pigment cell progenitor,1,Pigment
+tbx1,neural progenitor (telencephalon-diencephalon),1,Central Nervous System
+tbx1,neuromast support cell,1,Lateral Line
+tbx1,neuron (+ spinal cord),1,Central Nervous System
+tbx1,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+tbx1,pectoral fin bud (osteoblast+),1,Fin
+tbx1,primordial germ cell,1,Germ Line
+tbx1,pronephric podocyte,1,Kidney
+tbx1,retinal neuron,1,Eye
+tbx1,thyroid follicle cell,1,Endocrine
+tbx1,"unknown (dcn+, col6+)",1,Muscle
+tbx16,mature fast muscle,212,Muscle
+tbx16,mesodermal progenitor cells (contains PSM),166,Paraxial Mesoderm
+tbx16,periderm,83,Epidermis
+tbx16,adrenal gland,73,Endocrine
+tbx16,fin fold,58,Fin
+tbx16,basal cell,53,Connective Tissue
+tbx16,basal cell,53,Epidermis
+tbx16,anterior migratory muscle,47,Muscle
+tbx16,connective tissue-meninges-dermal FB,44,Connective Tissue
+tbx16,mature slow muscle,27,Muscle
+tbx16,head mesenchyme,21,Pharyngeal Arch
+tbx16,fast-committed myocyte,20,Muscle
+tbx16,pharyngeal arch (early),15,Pharyngeal Arch
+tbx16,notochord,12,Notochord
+tbx16,slow-committed myocyte,11,Muscle
+tbx16,cranial muscle (early),9,Pharyngeal Arch
+tbx16,"head mesenchyme (maybe ventral, hand2+)",9,Pharyngeal Arch
+tbx16,myoblast,9,Muscle
+tbx16,pronephros proximal tubule,9,Kidney
+tbx16,"eye, optic cup",8,Eye
+tbx16,"unknown (dcn+, col6+)",8,Muscle
+tbx16,neural progenitor (hindbrain),6,Central Nervous System
+tbx16,pancreas,6,Pancreas
+tbx16,pronephros distal tubule,6,Kidney
+tbx16,differentiating neuron 1,5,Central Nervous System
+tbx16,endothelium (vein + early artery),5,Endothelial
+tbx16,floor plate,5,Central Nervous System
+tbx16,differentiating neuron (hindbrain),4,Central Nervous System
+tbx16,fin bud mesoderm (pectoral),4,Fin
+tbx16,fin mesenchyme,4,Fin
+tbx16,periocular mesenchyme,4,Head Mesoderm
+tbx16,satellite cells,4,Muscle
+tbx16,contains head vasculature?,3,Connective Tissue
+tbx16,cranial muscle (progenitor),3,Pharyngeal Arch
+tbx16,"endothelium (f8+, clic2+)",3,Endothelial
+tbx16,hatching gland,3,Hatching Gland
+tbx16,head mesenchyme-PA cartilage,3,Pharyngeal Arch
+tbx16,neuromast support cell,3,Lateral Line
+tbx16,pectoral fin bud (osteoblast+),3,Fin
+tbx16,"pharyngeal arch (contains muscle, early cartilage)",3,Pharyngeal Arch
+tbx16,posterior spinal cord progenitors,3,Central Nervous System
+tbx16,red blood cell,3,Blood
+tbx16,retinal neuron,3,Eye
+tbx16,"cranial muscle (non-somitic, fast-twitch)",2,Muscle
+tbx16,endothelium (dorsal aorta),2,Endothelial
+tbx16,head-eye connective tissue,2,Connective Tissue
+tbx16,neural progenitor (hindbrain R7-8),2,Central Nervous System
+tbx16,cardiomyocyte,1,Heart
+tbx16,cranial muscle (mid),1,Pharyngeal Arch
+tbx16,differentiating neuron 2,1,Central Nervous System
+tbx16,hair cell,1,Lateral Line
+tbx16,hypochord,1,Hypochord
+tbx16,hypophysis-locus coeruleus,1,Central Nervous System
+tbx16,ionocyte-goblet cell,1,Epidermis
+tbx16,iridophore,1,Pigment
+tbx16,myeloid cell,1,Blood
+tbx16,neural progenitor (MHB),1,Central Nervous System
+tbx16,neural progenitor (telencephalon-diencephalon),1,Central Nervous System
+tbx16,neural tube-like connective tissue (+ taste bud),1,Connective Tissue
+tbx16,neuron (+ spinal cord),1,Central Nervous System
+tbx16,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+tbx16,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+tbx16,"neuron (telencephalon, glutamatergic)",1,Central Nervous System
+tbx16,"neurons (differentiating, contains peripheral)",1,Central Nervous System
+tbx16,"neurons (gabaergic, glutamatergic; contains Purkinje)",1,Central Nervous System
+tbx16,"neurons (gabaergic, glutamatergic)",1,Central Nervous System
+tbx16,olfactory vesicle-bulb,1,Olfactory
+tbx16,pharyngeal arch (NC-derived),1,Pharyngeal Arch
+tbx16,pharynx,1,Pharynx
+tbx16,posterior lateral line primordium,1,Lateral Line
+tbx16,pronephric duct,1,Kidney
+tbx16,pronephric podocyte,1,Kidney
+tbx16,retinal pigmented epithelium (early),1,Eye
+tbx16,thyroid follicle cell,1,Endocrine
+tbx16-msgn1,chondrocranium,1235,Pharyngeal Arch
+tbx16-msgn1,mature fast muscle,554,Muscle
+tbx16-msgn1,mesodermal progenitor cells (contains PSM),316,Paraxial Mesoderm
+tbx16-msgn1,head mesenchyme,111,Pharyngeal Arch
+tbx16-msgn1,periderm,104,Epidermis
+tbx16-msgn1,fin fold,89,Fin
+tbx16-msgn1,basal cell,86,Connective Tissue
+tbx16-msgn1,basal cell,86,Epidermis
+tbx16-msgn1,connective tissue-meninges-dermal FB,77,Connective Tissue
+tbx16-msgn1,mature slow muscle,37,Muscle
+tbx16-msgn1,anterior migratory muscle,33,Muscle
+tbx16-msgn1,notochord,19,Notochord
+tbx16-msgn1,endothelium (vein + early artery),17,Endothelial
+tbx16-msgn1,pharyngeal arch (early),17,Pharyngeal Arch
+tbx16-msgn1,fast-committed myocyte,16,Muscle
+tbx16-msgn1,neural progenitor (hindbrain),16,Central Nervous System
+tbx16-msgn1,pronephros proximal tubule,15,Kidney
+tbx16-msgn1,satellite cells,15,Muscle
+tbx16-msgn1,"head mesenchyme (maybe ventral, hand2+)",12,Pharyngeal Arch
+tbx16-msgn1,pronephros distal tubule,11,Kidney
+tbx16-msgn1,floor plate,10,Central Nervous System
+tbx16-msgn1,cranial muscle (mid),9,Pharyngeal Arch
+tbx16-msgn1,fin mesenchyme,8,Fin
+tbx16-msgn1,pharyngeal arch (NC-derived),8,Pharyngeal Arch
+tbx16-msgn1,"unknown (dcn+, col6+)",8,Muscle
+tbx16-msgn1,cranial muscle (early),7,Pharyngeal Arch
+tbx16-msgn1,fin bud mesoderm (pectoral),7,Fin
+tbx16-msgn1,hypochord,7,Hypochord
+tbx16-msgn1,cranial muscle (progenitor),6,Pharyngeal Arch
+tbx16-msgn1,neural progenitor (MHB),6,Central Nervous System
+tbx16-msgn1,neural tube-like connective tissue (+ taste bud),6,Connective Tissue
+tbx16-msgn1,"eye, optic cup",5,Eye
+tbx16-msgn1,head-eye connective tissue,5,Connective Tissue
+tbx16-msgn1,myoblast,5,Muscle
+tbx16-msgn1,neural progenitor (telencephalon-diencephalon),5,Central Nervous System
+tbx16-msgn1,neuromast support cell,5,Lateral Line
+tbx16-msgn1,"neurons (gabaergic, glutamatergic; contains Purkinje)",5,Central Nervous System
+tbx16-msgn1,hatching gland,4,Hatching Gland
+tbx16-msgn1,neural progenitor (hindbrain R7-8),4,Central Nervous System
+tbx16-msgn1,thyroid follicle cell,4,Endocrine
+tbx16-msgn1,endothelium (dorsal aorta),3,Endothelial
+tbx16-msgn1,melanophore,3,Epidermis
+tbx16-msgn1,myeloid cell,3,Blood
+tbx16-msgn1,"neurons (differentiating, contains peripheral)",3,Central Nervous System
+tbx16-msgn1,pectoral fin bud (osteoblast+),3,Fin
+tbx16-msgn1,red blood cell,3,Blood
+tbx16-msgn1,slow-committed myocyte,3,Muscle
+tbx16-msgn1,support cells-otic vesicle,3,Ear
+tbx16-msgn1,cardiomyocyte,2,Heart
+tbx16-msgn1,differentiating neuron (hindbrain),2,Central Nervous System
+tbx16-msgn1,differentiating neuron 1,2,Central Nervous System
+tbx16-msgn1,differentiating neuron 2,2,Central Nervous System
+tbx16-msgn1,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+tbx16-msgn1,periocular mesenchyme,2,Head Mesoderm
+tbx16-msgn1,retinal neuron,2,Eye
+tbx16-msgn1,retinal pigmented epithelium (early),2,Eye
+tbx16-msgn1,dorsal spinal cord neuron,1,Central Nervous System
+tbx16-msgn1,"endothelium (f8+, clic2+)",1,Endothelial
+tbx16-msgn1,hair cell,1,Lateral Line
+tbx16-msgn1,head mesenchyme-PA cartilage,1,Pharyngeal Arch
+tbx16-msgn1,intestine,1,Intestine
+tbx16-msgn1,ionocyte-goblet cell,1,Epidermis
+tbx16-msgn1,neural crest + pigment cell progenitor,1,Pigment
+tbx16-msgn1,neuron (+ spinal cord),1,Central Nervous System
+tbx16-msgn1,neuron (dopaminergic),1,Central Nervous System
+tbx16-msgn1,olfactory vesicle-bulb,1,Olfactory
+tbx16-msgn1,"pharyngeal arch (contains muscle, early cartilage)",1,Pharyngeal Arch
+tbx16-msgn1,pronephric duct,1,Kidney
+tbx16-msgn1,pronephric podocyte,1,Kidney
+tbx16-mut,enveloping layer (EVL),96,Epidermis
+tbx16-mut,mesodermal progenitor cells (contains PSM),74,Paraxial Mesoderm
+tbx16-mut,mature fast muscle,66,Muscle
+tbx16-mut,periderm,51,Epidermis
+tbx16-mut,connective tissue-meninges-dermal FB,19,Connective Tissue
+tbx16-mut,satellite cells,15,Muscle
+tbx16-mut,mature slow muscle,13,Muscle
+tbx16-mut,neural progenitor (hindbrain R7-8),10,Central Nervous System
+tbx16-mut,fast-committed myocyte,9,Muscle
+tbx16-mut,fin mesenchyme,9,Fin
+tbx16-mut,"head mesenchyme (maybe ventral, hand2+)",9,Pharyngeal Arch
+tbx16-mut,neural progenitor (hindbrain),9,Central Nervous System
+tbx16-mut,notochord,9,Notochord
+tbx16-mut,pronephros proximal tubule,9,Kidney
+tbx16-mut,endothelium (vein + early artery),8,Endothelial
+tbx16-mut,pectoral fin bud (osteoblast+),8,Fin
+tbx16-mut,"eye, optic cup",7,Eye
+tbx16-mut,head-eye connective tissue,7,Connective Tissue
+tbx16-mut,myoblast,7,Muscle
+tbx16-mut,anterior migratory muscle,6,Muscle
+tbx16-mut,intestine,6,Intestine
+tbx16-mut,neural progenitor (MHB),6,Central Nervous System
+tbx16-mut,pharyngeal arch (NC-derived),5,Pharyngeal Arch
+tbx16-mut,slow-committed myocyte,5,Muscle
+tbx16-mut,head mesenchyme,4,Pharyngeal Arch
+tbx16-mut,hypochord,4,Hypochord
+tbx16-mut,ionocyte-goblet cell,4,Epidermis
+tbx16-mut,neural progenitor (telencephalon-diencephalon),4,Central Nervous System
+tbx16-mut,neuron (+ spinal cord),4,Central Nervous System
+tbx16-mut,"pharyngeal arch (contains muscle, early cartilage)",4,Pharyngeal Arch
+tbx16-mut,red blood cell,4,Blood
+tbx16-mut,neuromast support cell,3,Lateral Line
+tbx16-mut,"neurons (gabaergic, glutamatergic; contains Purkinje)",3,Central Nervous System
+tbx16-mut,differentiating neuron (hindbrain),2,Central Nervous System
+tbx16-mut,"endothelium (f8+, clic2+)",2,Endothelial
+tbx16-mut,hatching gland,2,Hatching Gland
+tbx16-mut,head mesenchyme-PA cartilage,2,Pharyngeal Arch
+tbx16-mut,neural tube-like connective tissue (+ taste bud),2,Connective Tissue
+tbx16-mut,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+tbx16-mut,primordial germ cell,2,Germ Line
+tbx16-mut,pronephros distal tubule,2,Kidney
+tbx16-mut,retinal neuron,2,Eye
+tbx16-mut,cardiomyocyte,1,Heart
+tbx16-mut,contains head vasculature?,1,Connective Tissue
+tbx16-mut,"cranial muscle (non-somitic, fast-twitch)",1,Muscle
+tbx16-mut,cranial muscle (progenitor),1,Pharyngeal Arch
+tbx16-mut,differentiating neuron 2,1,Central Nervous System
+tbx16-mut,glia,1,Central Nervous System
+tbx16-mut,glia,1,CNS/Neural crest
+tbx16-mut,KA neuron,1,Central Nervous System
+tbx16-mut,lens,1,Eye
+tbx16-mut,melanophore,1,Epidermis
+tbx16-mut,motor neuron,1,Central Nervous System
+tbx16-mut,myeloid cell,1,Blood
+tbx16-mut,neural crest + pigment cell progenitor,1,Pigment
+tbx16-mut,"neurons (differentiating, contains peripheral)",1,Central Nervous System
+tbx16-mut,olfactory vesicle-bulb,1,Olfactory
+tbx16-mut,pancreas,1,Pancreas
+tbx16-mut,pharyngeal arch (early),1,Pharyngeal Arch
+tbx16-mut,posterior lateral line primordium,1,Lateral Line
+tbx16-mut,posterior spinal cord progenitors,1,Central Nervous System
+tbx16-mut,pronephric duct,1,Kidney
+tbx16-mut,retinal pigmented epithelium (early),1,Eye
+tbx16-mut,support cells-otic vesicle,1,Ear
+tbx16-mut,xanthophore,1,Epidermis
+tbx16-tbx16l,mature fast muscle,1015,Muscle
+tbx16-tbx16l,jaw chondrocyte,511,Pharyngeal Arch
+tbx16-tbx16l,mesodermal progenitor cells (contains PSM),325,Paraxial Mesoderm
+tbx16-tbx16l,head mesenchyme,170,Pharyngeal Arch
+tbx16-tbx16l,periderm,167,Epidermis
+tbx16-tbx16l,anterior migratory muscle,142,Muscle
+tbx16-tbx16l,basal cell,120,Connective Tissue
+tbx16-tbx16l,basal cell,120,Epidermis
+tbx16-tbx16l,connective tissue-meninges-dermal FB,110,Connective Tissue
+tbx16-tbx16l,fin fold,94,Fin
+tbx16-tbx16l,notochord,85,Notochord
+tbx16-tbx16l,mature slow muscle,79,Muscle
+tbx16-tbx16l,neural progenitor (hindbrain),55,Central Nervous System
+tbx16-tbx16l,enveloping layer (EVL),48,Epidermis
+tbx16-tbx16l,floor plate,31,Central Nervous System
+tbx16-tbx16l,neural progenitor (hindbrain R7-8),30,Central Nervous System
+tbx16-tbx16l,satellite cells,27,Muscle
+tbx16-tbx16l,"eye, optic cup",26,Eye
+tbx16-tbx16l,"head mesenchyme (maybe ventral, hand2+)",25,Pharyngeal Arch
+tbx16-tbx16l,neural progenitor (MHB),25,Central Nervous System
+tbx16-tbx16l,pharyngeal arch (early),19,Pharyngeal Arch
+tbx16-tbx16l,pharyngeal arch (NC-derived),19,Pharyngeal Arch
+tbx16-tbx16l,head-eye connective tissue,18,Connective Tissue
+tbx16-tbx16l,endothelium (vein + early artery),15,Endothelial
+tbx16-tbx16l,fin mesenchyme,15,Fin
+tbx16-tbx16l,cranial muscle (early),14,Pharyngeal Arch
+tbx16-tbx16l,fast-committed myocyte,14,Muscle
+tbx16-tbx16l,pectoral fin bud (osteoblast+),14,Fin
+tbx16-tbx16l,cranial muscle (progenitor),13,Pharyngeal Arch
+tbx16-tbx16l,neural progenitor (telencephalon-diencephalon),13,Central Nervous System
+tbx16-tbx16l,pancreas,13,Pancreas
+tbx16-tbx16l,posterior spinal cord progenitors,12,Central Nervous System
+tbx16-tbx16l,"neurons (gabaergic, glutamatergic; contains Purkinje)",11,Central Nervous System
+tbx16-tbx16l,pronephros proximal tubule,11,Kidney
+tbx16-tbx16l,myeloid cell,10,Blood
+tbx16-tbx16l,pronephros distal tubule,10,Kidney
+tbx16-tbx16l,support cells-otic vesicle,9,Ear
+tbx16-tbx16l,myoblast,8,Muscle
+tbx16-tbx16l,neuromast support cell,8,Lateral Line
+tbx16-tbx16l,"neurons (differentiating, contains peripheral)",8,Central Nervous System
+tbx16-tbx16l,differentiating neuron (hindbrain),7,Central Nervous System
+tbx16-tbx16l,hypochord,7,Hypochord
+tbx16-tbx16l,retinal neuron,7,Eye
+tbx16-tbx16l,"cranial muscle (non-somitic, fast-twitch)",6,Muscle
+tbx16-tbx16l,cranial neural crest,6,Cranial NC
+tbx16-tbx16l,differentiating neuron 1,6,Central Nervous System
+tbx16-tbx16l,neural tube-like connective tissue (+ taste bud),6,Connective Tissue
+tbx16-tbx16l,"pharyngeal arch (contains muscle, early cartilage)",6,Pharyngeal Arch
+tbx16-tbx16l,"unknown (dcn+, col6+)",6,Muscle
+tbx16-tbx16l,endothelium (dorsal aorta),5,Endothelial
+tbx16-tbx16l,retinal pigmented epithelium (early),5,Eye
+tbx16-tbx16l,slow-committed myocyte,5,Muscle
+tbx16-tbx16l,contains head vasculature?,4,Connective Tissue
+tbx16-tbx16l,ionocyte-goblet cell,4,Epidermis
+tbx16-tbx16l,lens,4,Eye
+tbx16-tbx16l,neural crest + pigment cell progenitor,4,Pigment
+tbx16-tbx16l,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+tbx16-tbx16l,fin bud mesoderm (pectoral),3,Fin
+tbx16-tbx16l,head mesenchyme-PA cartilage,3,Pharyngeal Arch
+tbx16-tbx16l,motor neuron,3,Central Nervous System
+tbx16-tbx16l,"neurons (gabaergic, glutamatergic)",3,Central Nervous System
+tbx16-tbx16l,pharynx,3,Pharynx
+tbx16-tbx16l,primordial germ cell,3,Germ Line
+tbx16-tbx16l,red blood cell,3,Blood
+tbx16-tbx16l,thyroid follicle cell,3,Endocrine
+tbx16-tbx16l,cardiomyocyte,2,Heart
+tbx16-tbx16l,cranial muscle (mid),2,Pharyngeal Arch
+tbx16-tbx16l,differentiating neuron 2,2,Central Nervous System
+tbx16-tbx16l,glia,2,Central Nervous System
+tbx16-tbx16l,glia,2,CNS/Neural crest
+tbx16-tbx16l,hair cell,2,Lateral Line
+tbx16-tbx16l,hypophysis-locus coeruleus,2,Central Nervous System
+tbx16-tbx16l,intestine,2,Intestine
+tbx16-tbx16l,KA neuron,2,Central Nervous System
+tbx16-tbx16l,neuron (+ spinal cord),2,Central Nervous System
+tbx16-tbx16l,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+tbx16-tbx16l,pronephric duct,2,Kidney
+tbx16-tbx16l,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+tbx16-tbx16l,xanthophore,2,Epidermis
+tbx16-tbx16l,"endothelium (f8+, clic2+)",1,Endothelial
+tbx16-tbx16l,hatching gland,1,Hatching Gland
+tbx16-tbx16l,iridophore,1,Pigment
+tbx16-tbx16l,liver,1,Liver
+tbx16-tbx16l,melanophore,1,Epidermis
+tbx16-tbx16l,posterior lateral line primordium,1,Lateral Line
+tbxta,periderm,244,Epidermis
+tbxta,basal cell,215,Connective Tissue
+tbxta,basal cell,215,Epidermis
+tbxta,notochord,114,Notochord
+tbxta,"neurons (differentiating, contains peripheral)",60,Central Nervous System
+tbxta,mature fast muscle,59,Muscle
+tbxta,floor plate,41,Central Nervous System
+tbxta,fast-committed myocyte,34,Muscle
+tbxta,"unknown (dcn+, col6+)",30,Muscle
+tbxta,head mesenchyme,29,Pharyngeal Arch
+tbxta,fin fold,26,Fin
+tbxta,"neurons (gabaergic, glutamatergic)",25,Central Nervous System
+tbxta,differentiating neuron (hindbrain),24,Central Nervous System
+tbxta,pharyngeal arch (early),20,Pharyngeal Arch
+tbxta,anterior migratory muscle,19,Muscle
+tbxta,endothelium (dorsal aorta),19,Endothelial
+tbxta,cranial muscle (early),18,Pharyngeal Arch
+tbxta,connective tissue-meninges-dermal FB,17,Connective Tissue
+tbxta,fin mesenchyme,17,Fin
+tbxta,posterior spinal cord progenitors,15,Central Nervous System
+tbxta,mesodermal progenitor cells (contains PSM),14,Paraxial Mesoderm
+tbxta,retinal neuron,14,Eye
+tbxta,mature slow muscle,13,Muscle
+tbxta,"head mesenchyme (maybe ventral, hand2+)",11,Pharyngeal Arch
+tbxta,head-eye connective tissue,11,Connective Tissue
+tbxta,neural progenitor (hindbrain R7-8),11,Central Nervous System
+tbxta,slow-committed myocyte,11,Muscle
+tbxta,neural progenitor (hindbrain),10,Central Nervous System
+tbxta,"cranial muscle (non-somitic, fast-twitch)",9,Muscle
+tbxta,differentiating neuron 1,9,Central Nervous System
+tbxta,melanophore,9,Epidermis
+tbxta,pharyngeal arch (NC-derived),8,Pharyngeal Arch
+tbxta,pronephros distal tubule,8,Kidney
+tbxta,red blood cell,8,Blood
+tbxta,satellite cells,8,Muscle
+tbxta,ionocyte-goblet cell,7,Epidermis
+tbxta,"pharyngeal arch (contains muscle, early cartilage)",7,Pharyngeal Arch
+tbxta,retinal pigmented epithelium (early),7,Eye
+tbxta,"eye, optic cup",6,Eye
+tbxta,fin bud mesoderm (pectoral),6,Fin
+tbxta,hatching gland,6,Hatching Gland
+tbxta,"neuron (cranial ganglia sensory, Rohon-Beard)",6,Peripheral Nervous System
+tbxta,pectoral fin bud (osteoblast+),6,Fin
+tbxta,contains head vasculature?,5,Connective Tissue
+tbxta,intestine,5,Intestine
+tbxta,pronephric duct,5,Kidney
+tbxta,cranial neural crest,4,Cranial NC
+tbxta,glia,4,Central Nervous System
+tbxta,glia,4,CNS/Neural crest
+tbxta,hypochord,4,Hypochord
+tbxta,iridophore,4,Pigment
+tbxta,neural crest + pigment cell progenitor,4,Pigment
+tbxta,neural progenitor (MHB),4,Central Nervous System
+tbxta,neuron (+ spinal cord),4,Central Nervous System
+tbxta,"neurons (gabaergic, glutamatergic; contains Purkinje)",4,Central Nervous System
+tbxta,olfactory vesicle-bulb,4,Olfactory
+tbxta,pronephros proximal tubule,4,Kidney
+tbxta,cranial muscle (mid),3,Pharyngeal Arch
+tbxta,hair cell,3,Lateral Line
+tbxta,lens,3,Eye
+tbxta,neural progenitor (telencephalon-diencephalon),3,Central Nervous System
+tbxta,"neuron (telencephalon, glutamatergic)",3,Central Nervous System
+tbxta,pharynx,3,Pharynx
+tbxta,thyroid follicle cell,3,Endocrine
+tbxta,cardiomyocyte,2,Heart
+tbxta,differentiating neuron 2,2,Central Nervous System
+tbxta,dorsal spinal cord neuron,2,Central Nervous System
+tbxta,endothelium (vein + early artery),2,Endothelial
+tbxta,KA neuron,2,Central Nervous System
+tbxta,myeloid cell,2,Blood
+tbxta,neural tube-like connective tissue (+ taste bud),2,Connective Tissue
+tbxta,"neuron (cranial ganglia sensory, Rohon-Beard)",2,Peripheral Nervous System
+tbxta,periocular mesenchyme,2,Head Mesoderm
+tbxta,primordial germ cell,2,Germ Line
+tbxta,cranial muscle (progenitor),1,Pharyngeal Arch
+tbxta,"endothelium (f8+, clic2+)",1,Endothelial
+tbxta,head mesenchyme-PA cartilage,1,Pharyngeal Arch
+tbxta,motor neuron,1,Central Nervous System
+tbxta,myoblast,1,Muscle
+tbxta,neuromast support cell,1,Lateral Line
+tbxta,pancreas,1,Pancreas
+tbxta,xanthophore,1,Epidermis
+tfap2a,retinal neuron,222,Eye
+tfap2a,mature fast muscle,205,Muscle
+tfap2a,periderm,134,Epidermis
+tfap2a,myoblast,117,Muscle
+tfap2a,intestine,87,Intestine
+tfap2a,basal cell,75,Connective Tissue
+tfap2a,basal cell,75,Epidermis
+tfap2a,connective tissue-meninges-dermal FB,71,Connective Tissue
+tfap2a,glia,62,Central Nervous System
+tfap2a,glia,62,CNS/Neural crest
+tfap2a,melanophore,61,Epidermis
+tfap2a,"neurons (gabaergic, glutamatergic; contains Purkinje)",55,Central Nervous System
+tfap2a,fin fold,32,Fin
+tfap2a,hatching gland,31,Hatching Gland
+tfap2a,"neuron (cranial ganglia sensory, Rohon-Beard)",25,Peripheral Nervous System
+tfap2a,periocular mesenchyme,25,Head Mesoderm
+tfap2a,mature slow muscle,23,Muscle
+tfap2a,"pharyngeal arch (contains muscle, early cartilage)",23,Pharyngeal Arch
+tfap2a,support cells-otic vesicle,23,Ear
+tfap2a,notochord,22,Notochord
+tfap2a,iridophore,19,Pigment
+tfap2a,pronephros distal tubule,19,Kidney
+tfap2a,endothelium (dorsal aorta),17,Endothelial
+tfap2a,xanthophore,16,Epidermis
+tfap2a,head-eye connective tissue,15,Connective Tissue
+tfap2a,cranial neural crest,13,Cranial NC
+tfap2a,liver,13,Liver
+tfap2a,neural tube-like connective tissue (+ taste bud),13,Connective Tissue
+tfap2a,pharyngeal arch (early),12,Pharyngeal Arch
+tfap2a,pancreas,11,Pancreas
+tfap2a,fin bud mesoderm (pectoral),10,Fin
+tfap2a,endothelium (vein + early artery),9,Endothelial
+tfap2a,neuromast support cell,9,Lateral Line
+tfap2a,differentiating neuron (hindbrain),8,Central Nervous System
+tfap2a,neural progenitor (telencephalon-diencephalon),8,Central Nervous System
+tfap2a,"eye, optic cup",7,Eye
+tfap2a,ionocyte-goblet cell,7,Epidermis
+tfap2a,"neurons (gabaergic, glutamatergic)",7,Central Nervous System
+tfap2a,head mesenchyme,5,Pharyngeal Arch
+tfap2a,"head mesenchyme (maybe ventral, hand2+)",5,Pharyngeal Arch
+tfap2a,"neuron (telencephalon, glutamatergic)",5,Central Nervous System
+tfap2a,pronephros proximal tubule,5,Kidney
+tfap2a,retinal pigmented epithelium (early),5,Eye
+tfap2a,chondrocranium,4,Pharyngeal Arch
+tfap2a,cranial muscle (mid),4,Pharyngeal Arch
+tfap2a,floor plate,4,Central Nervous System
+tfap2a,neural progenitor (MHB),4,Central Nervous System
+tfap2a,anterior migratory muscle,3,Muscle
+tfap2a,differentiating neuron 1,3,Central Nervous System
+tfap2a,head mesenchyme-PA cartilage,3,Pharyngeal Arch
+tfap2a,neural progenitor (hindbrain R7-8),3,Central Nervous System
+tfap2a,neural progenitor (hindbrain),3,Central Nervous System
+tfap2a,"neurons (differentiating, contains peripheral)",3,Central Nervous System
+tfap2a,cardiomyocyte,2,Heart
+tfap2a,lens,2,Eye
+tfap2a,retinal pigmented epithelium (late),2,Retina
+tfap2a,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+tfap2a,satellite cells,2,Muscle
+tfap2a,thyroid follicle cell,2,Endocrine
+tfap2a,"cranial muscle (non-somitic, fast-twitch)",1,Muscle
+tfap2a,cranial muscle (progenitor),1,Pharyngeal Arch
+tfap2a,differentiating neuron 2,1,Central Nervous System
+tfap2a,dorsal spinal cord neuron,1,Central Nervous System
+tfap2a,jaw chondrocyte,1,Pharyngeal Arch
+tfap2a,myeloid cell,1,Blood
+tfap2a,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+tfap2a,pectoral fin bud (osteoblast+),1,Fin
+tfap2a,pharyngeal arch (NC-derived),1,Pharyngeal Arch
+tfap2a,posterior spinal cord progenitors,1,Central Nervous System
+tfap2a-foxd3,mature fast muscle,447,Muscle
+tfap2a-foxd3,periderm,388,Epidermis
+tfap2a-foxd3,retinal neuron,206,Eye
+tfap2a-foxd3,basal cell,192,Connective Tissue
+tfap2a-foxd3,basal cell,192,Epidermis
+tfap2a-foxd3,lens,125,Eye
+tfap2a-foxd3,"pharyngeal arch (contains muscle, early cartilage)",120,Pharyngeal Arch
+tfap2a-foxd3,fin fold,96,Fin
+tfap2a-foxd3,connective tissue-meninges-dermal FB,78,Connective Tissue
+tfap2a-foxd3,hatching gland,50,Hatching Gland
+tfap2a-foxd3,mature slow muscle,39,Muscle
+tfap2a-foxd3,pronephros distal tubule,35,Kidney
+tfap2a-foxd3,neural tube-like connective tissue (+ taste bud),34,Connective Tissue
+tfap2a-foxd3,neuromast support cell,32,Lateral Line
+tfap2a-foxd3,notochord,29,Notochord
+tfap2a-foxd3,"head mesenchyme (maybe ventral, hand2+)",27,Pharyngeal Arch
+tfap2a-foxd3,"neurons (gabaergic, glutamatergic; contains Purkinje)",26,Central Nervous System
+tfap2a-foxd3,intestine,25,Intestine
+tfap2a-foxd3,"neurons (gabaergic, glutamatergic)",21,Central Nervous System
+tfap2a-foxd3,pharyngeal arch (early),18,Pharyngeal Arch
+tfap2a-foxd3,glia,17,Central Nervous System
+tfap2a-foxd3,glia,17,CNS/Neural crest
+tfap2a-foxd3,pectoral fin bud (osteoblast+),17,Fin
+tfap2a-foxd3,cranial muscle (mid),16,Pharyngeal Arch
+tfap2a-foxd3,head mesenchyme,15,Pharyngeal Arch
+tfap2a-foxd3,dorsal spinal cord neuron,14,Central Nervous System
+tfap2a-foxd3,chondrocranium,13,Pharyngeal Arch
+tfap2a-foxd3,fin bud mesoderm (pectoral),13,Fin
+tfap2a-foxd3,liver,13,Liver
+tfap2a-foxd3,retinal pigmented epithelium (late),13,Retina
+tfap2a-foxd3,endothelium (dorsal aorta),12,Endothelial
+tfap2a-foxd3,hair cell,12,Lateral Line
+tfap2a-foxd3,head mesenchyme-PA cartilage,12,Pharyngeal Arch
+tfap2a-foxd3,jaw chondrocyte,12,Pharyngeal Arch
+tfap2a-foxd3,neural progenitor (telencephalon-diencephalon),12,Central Nervous System
+tfap2a-foxd3,cranial muscle (late),11,Muscle
+tfap2a-foxd3,anterior migratory muscle,10,Muscle
+tfap2a-foxd3,"cranial muscle (non-somitic, fast-twitch)",9,Muscle
+tfap2a-foxd3,pharyngeal arch (NC-derived),9,Pharyngeal Arch
+tfap2a-foxd3,retinal pigmented epithelium (early),9,Eye
+tfap2a-foxd3,support cells-otic vesicle,9,Ear
+tfap2a-foxd3,xanthophore,9,Epidermis
+tfap2a-foxd3,cranial neural crest,6,Cranial NC
+tfap2a-foxd3,head-eye connective tissue,6,Connective Tissue
+tfap2a-foxd3,osteoblast,6,Bone
+tfap2a-foxd3,cranial muscle (early),5,Pharyngeal Arch
+tfap2a-foxd3,neural progenitor (hindbrain R7-8),5,Central Nervous System
+tfap2a-foxd3,pancreas,5,Pancreas
+tfap2a-foxd3,"unknown (dcn+, col6+)",5,Muscle
+tfap2a-foxd3,ionocyte-goblet cell,4,Epidermis
+tfap2a-foxd3,"neuron (cranial ganglia sensory, Rohon-Beard)",4,Peripheral Nervous System
+tfap2a-foxd3,floor plate,3,Central Nervous System
+tfap2a-foxd3,hypophysis-locus coeruleus,3,Central Nervous System
+tfap2a-foxd3,"neuron (telencephalon, glutamatergic)",3,Central Nervous System
+tfap2a-foxd3,red blood cell,3,Blood
+tfap2a-foxd3,cranial muscle (progenitor),2,Pharyngeal Arch
+tfap2a-foxd3,hypochord,2,Hypochord
+tfap2a-foxd3,"neurons (differentiating, contains peripheral)",2,Central Nervous System
+tfap2a-foxd3,cardiomyocyte,1,Heart
+tfap2a-foxd3,differentiating neuron (hindbrain),1,Central Nervous System
+tfap2a-foxd3,differentiating neuron 2,1,Central Nervous System
+tfap2a-foxd3,"endothelium (f8+, clic2+)",1,Endothelial
+tfap2a-foxd3,endothelium (vein + early artery),1,Endothelial
+tfap2a-foxd3,iridophore,1,Pigment
+tfap2a-foxd3,melanophore,1,Epidermis
+tfap2a-foxd3,neural progenitor (hindbrain),1,Central Nervous System
+tfap2a-foxd3,periocular mesenchyme,1,Head Mesoderm
+tfap2a-foxd3,posterior lateral line primordium,1,Lateral Line
+tfap2a-foxd3,pronephric duct,1,Kidney
+tfap2a-foxd3,pronephros proximal tubule,1,Kidney
+tfap2a-foxd3,"roof plate, flexural + subcommissural organ",1,Central Nervous System
+wnt3a-wnt8,jaw chondrocyte,239,Pharyngeal Arch
+wnt3a-wnt8,basal cell,221,Connective Tissue
+wnt3a-wnt8,basal cell,221,Epidermis
+wnt3a-wnt8,periderm,217,Epidermis
+wnt3a-wnt8,pronephric duct,153,Kidney
+wnt3a-wnt8,fin mesenchyme,106,Fin
+wnt3a-wnt8,mature fast muscle,85,Muscle
+wnt3a-wnt8,head-eye connective tissue,78,Connective Tissue
+wnt3a-wnt8,neural progenitor (telencephalon-diencephalon),51,Central Nervous System
+wnt3a-wnt8,head mesenchyme,45,Pharyngeal Arch
+wnt3a-wnt8,fast-committed myocyte,40,Muscle
+wnt3a-wnt8,floor plate,40,Central Nervous System
+wnt3a-wnt8,lens,37,Eye
+wnt3a-wnt8,connective tissue-meninges-dermal FB,32,Connective Tissue
+wnt3a-wnt8,neural progenitor (hindbrain),31,Central Nervous System
+wnt3a-wnt8,cranial muscle (progenitor),30,Pharyngeal Arch
+wnt3a-wnt8,fin fold,29,Fin
+wnt3a-wnt8,pharyngeal arch (NC-derived),29,Pharyngeal Arch
+wnt3a-wnt8,"head mesenchyme (maybe ventral, hand2+)",27,Pharyngeal Arch
+wnt3a-wnt8,contains head vasculature?,26,Connective Tissue
+wnt3a-wnt8,pronephros proximal tubule,24,Kidney
+wnt3a-wnt8,notochord,22,Notochord
+wnt3a-wnt8,"neurons (gabaergic, glutamatergic)",21,Central Nervous System
+wnt3a-wnt8,fin bud mesoderm (pectoral),20,Fin
+wnt3a-wnt8,posterior spinal cord progenitors,19,Central Nervous System
+wnt3a-wnt8,pronephros distal tubule,19,Kidney
+wnt3a-wnt8,hatching gland,18,Hatching Gland
+wnt3a-wnt8,"eye, optic cup",17,Eye
+wnt3a-wnt8,cranial neural crest,16,Cranial NC
+wnt3a-wnt8,mature slow muscle,16,Muscle
+wnt3a-wnt8,"neurons (gabaergic, glutamatergic; contains Purkinje)",15,Central Nervous System
+wnt3a-wnt8,pectoral fin bud (osteoblast+),15,Fin
+wnt3a-wnt8,"pharyngeal arch (contains muscle, early cartilage)",15,Pharyngeal Arch
+wnt3a-wnt8,anterior migratory muscle,14,Muscle
+wnt3a-wnt8,dorsal spinal cord neuron,13,Central Nervous System
+wnt3a-wnt8,neural progenitor (hindbrain R7-8),12,Central Nervous System
+wnt3a-wnt8,hair cell,11,Lateral Line
+wnt3a-wnt8,"neurons (differentiating, contains peripheral)",10,Central Nervous System
+wnt3a-wnt8,posterior lateral line primordium,10,Lateral Line
+wnt3a-wnt8,neural tube-like connective tissue (+ taste bud),9,Connective Tissue
+wnt3a-wnt8,retinal pigmented epithelium (early),8,Eye
+wnt3a-wnt8,endothelium (vein + early artery),7,Endothelial
+wnt3a-wnt8,glia,7,Central Nervous System
+wnt3a-wnt8,glia,7,CNS/Neural crest
+wnt3a-wnt8,mesodermal progenitor cells (contains PSM),7,Paraxial Mesoderm
+wnt3a-wnt8,"cranial muscle (non-somitic, fast-twitch)",6,Muscle
+wnt3a-wnt8,differentiating neuron (hindbrain),6,Central Nervous System
+wnt3a-wnt8,endothelium (dorsal aorta),6,Endothelial
+wnt3a-wnt8,melanophore,6,Epidermis
+wnt3a-wnt8,myeloid cell,6,Blood
+wnt3a-wnt8,support cells-otic vesicle,6,Ear
+wnt3a-wnt8,cranial muscle (early),5,Pharyngeal Arch
+wnt3a-wnt8,cranial muscle (mid),5,Pharyngeal Arch
+wnt3a-wnt8,head mesenchyme-PA cartilage,5,Pharyngeal Arch
+wnt3a-wnt8,hypochord,5,Hypochord
+wnt3a-wnt8,iridophore,5,Pigment
+wnt3a-wnt8,liver,5,Liver
+wnt3a-wnt8,"neuron (cranial ganglia sensory, Rohon-Beard)",5,Peripheral Nervous System
+wnt3a-wnt8,xanthophore,5,Epidermis
+wnt3a-wnt8,differentiating neuron 2,4,Central Nervous System
+wnt3a-wnt8,motor neuron,4,Central Nervous System
+wnt3a-wnt8,neural progenitor (MHB),4,Central Nervous System
+wnt3a-wnt8,neuromast support cell,4,Lateral Line
+wnt3a-wnt8,neuron (+ spinal cord),4,Central Nervous System
+wnt3a-wnt8,pancreas,4,Pancreas
+wnt3a-wnt8,pharyngeal arch (early),4,Pharyngeal Arch
+wnt3a-wnt8,satellite cells,4,Muscle
+wnt3a-wnt8,"endothelium (f8+, clic2+)",3,Endothelial
+wnt3a-wnt8,intestine,3,Intestine
+wnt3a-wnt8,olfactory vesicle-bulb,3,Olfactory
+wnt3a-wnt8,cardiomyocyte,2,Heart
+wnt3a-wnt8,differentiating neuron 1,2,Central Nervous System
+wnt3a-wnt8,ionocyte-goblet cell,2,Epidermis
+wnt3a-wnt8,myoblast,2,Muscle
+wnt3a-wnt8,"neuron (telencephalon, glutamatergic)",2,Central Nervous System
+wnt3a-wnt8,primordial germ cell,2,Germ Line
+wnt3a-wnt8,retinal neuron,2,Eye
+wnt3a-wnt8,"roof plate, flexural + subcommissural organ",2,Central Nervous System
+wnt3a-wnt8,hypophysis-locus coeruleus,1,Central Nervous System
+wnt3a-wnt8,neural crest + pigment cell progenitor,1,Pigment
+wnt3a-wnt8,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+wnt3a-wnt8,pronephric podocyte,1,Kidney
+wnt3a-wnt8,red blood cell,1,Blood
+wnt3a-wnt8,thyroid follicle cell,1,Endocrine
+zc4h2,periderm,27,Epidermis
+zc4h2,mature fast muscle,22,Muscle
+zc4h2,fast-committed myocyte,19,Muscle
+zc4h2,KA neuron,18,Central Nervous System
+zc4h2,neural progenitor (hindbrain),16,Central Nervous System
+zc4h2,pharyngeal arch (NC-derived),16,Pharyngeal Arch
+zc4h2,basal cell,15,Connective Tissue
+zc4h2,basal cell,15,Epidermis
+zc4h2,notochord,13,Notochord
+zc4h2,connective tissue-meninges-dermal FB,12,Connective Tissue
+zc4h2,fin mesenchyme,12,Fin
+zc4h2,head-eye connective tissue,10,Connective Tissue
+zc4h2,cardiomyocyte,7,Heart
+zc4h2,fin fold,7,Fin
+zc4h2,floor plate,7,Central Nervous System
+zc4h2,hatching gland,6,Hatching Gland
+zc4h2,posterior spinal cord progenitors,6,Central Nervous System
+zc4h2,neural tube-like connective tissue (+ taste bud),5,Connective Tissue
+zc4h2,red blood cell,5,Blood
+zc4h2,"cranial muscle (non-somitic, fast-twitch)",4,Muscle
+zc4h2,differentiating neuron (hindbrain),4,Central Nervous System
+zc4h2,intestine,4,Intestine
+zc4h2,iridophore,4,Pigment
+zc4h2,jaw chondrocyte,4,Pharyngeal Arch
+zc4h2,retinal neuron,4,Eye
+zc4h2,chondrocranium,3,Pharyngeal Arch
+zc4h2,contains head vasculature?,3,Connective Tissue
+zc4h2,cranial muscle (progenitor),3,Pharyngeal Arch
+zc4h2,"endothelium (f8+, clic2+)",3,Endothelial
+zc4h2,endothelium (vein + early artery),3,Endothelial
+zc4h2,hair cell,3,Lateral Line
+zc4h2,"head mesenchyme (maybe ventral, hand2+)",3,Pharyngeal Arch
+zc4h2,hypochord,3,Hypochord
+zc4h2,mature slow muscle,3,Muscle
+zc4h2,neural progenitor (hindbrain R7-8),3,Central Nervous System
+zc4h2,neuron (+ spinal cord),3,Central Nervous System
+zc4h2,"neurons (gabaergic, glutamatergic)",3,Central Nervous System
+zc4h2,"roof plate, flexural + subcommissural organ",3,Central Nervous System
+zc4h2,satellite cells,3,Muscle
+zc4h2,anterior migratory muscle,2,Muscle
+zc4h2,differentiating neuron 1,2,Central Nervous System
+zc4h2,dorsal spinal cord neuron,2,Central Nervous System
+zc4h2,"eye, optic cup",2,Eye
+zc4h2,lens,2,Eye
+zc4h2,melanophore,2,Epidermis
+zc4h2,neural crest + pigment cell progenitor,2,Pigment
+zc4h2,neuromast support cell,2,Lateral Line
+zc4h2,"neurons (gabaergic, glutamatergic; contains Purkinje)",2,Central Nervous System
+zc4h2,periocular mesenchyme,2,Head Mesoderm
+zc4h2,pharynx,2,Pharynx
+zc4h2,pronephric duct,2,Kidney
+zc4h2,pronephric podocyte,2,Kidney
+zc4h2,pronephros proximal tubule,2,Kidney
+zc4h2,thyroid follicle cell,2,Endocrine
+zc4h2,cranial muscle (mid),1,Pharyngeal Arch
+zc4h2,cranial neural crest,1,Cranial NC
+zc4h2,endothelium (dorsal aorta),1,Endothelial
+zc4h2,fin bud mesoderm (pectoral),1,Fin
+zc4h2,glia,1,Central Nervous System
+zc4h2,glia,1,CNS/Neural crest
+zc4h2,liver,1,Liver
+zc4h2,mesodermal progenitor cells (contains PSM),1,Paraxial Mesoderm
+zc4h2,motor neuron,1,Central Nervous System
+zc4h2,myeloid cell,1,Blood
+zc4h2,neural progenitor (MHB),1,Central Nervous System
+zc4h2,"neuron (cranial ganglia sensory, Rohon-Beard)",1,Peripheral Nervous System
+zc4h2,olfactory vesicle-bulb,1,Olfactory
+zc4h2,osteoblast,1,Bone
+zc4h2,"pharyngeal arch (contains muscle, early cartilage)",1,Pharyngeal Arch
+zc4h2,support cells-otic vesicle,1,Ear
+zc4h2,xanthophore,1,Epidermis
