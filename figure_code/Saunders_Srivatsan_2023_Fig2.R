@@ -371,7 +371,7 @@ ggsave("EDF14_tbx16-grp_sc-neuron_meso_abund-heatmap.pdf",
 # plot a representation of mean cells per embryo for each cell type above
 # use control mean values
 
-ctrl_coldata <- fread("data/reference_cell_metadata.csv")
+ctrl_coldata <- fread("reference_cell_metadata.csv") # download from ZSCAPE
 
 coldat_filt <- ctrl_coldata %>% 
   filter(gene_target == "ctrl-inj") %>%

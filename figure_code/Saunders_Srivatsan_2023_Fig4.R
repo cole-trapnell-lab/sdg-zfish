@@ -53,8 +53,8 @@ ganglia_colors =
 ## reference inset
 
 # load full reference metadata
-global_coldata <- fread("data/final_final_ref/R_objects_ref/full_gap_hf_ctrl_ref_mito-filt_1.25M_model-update_anno_coldata.csv", 
-                       sep = ",", stringsAsFactors = F, data.table = F)
+global_coldata <- fread("reference_cell_metadata.csv", 
+                       sep = ",", stringsAsFactors = F, data.table = F) # Download from ZSCAPE
 
 cg_cells <- cg_all_coldata %>% 
   pull(cell)
@@ -381,7 +381,7 @@ ggsave("fig4f_ctrl-phox2a-foxi1-tfap-foxd3_cg-all_counts-boxplot_geno-facet.pdf"
 # EDF 18 Subtype abundance heatmap -----------------------------------------------
 
 # just genos for this fig
-res_df <- fread("/Volumes/GoogleDrive/Shared drives/Trapnell Lab/Projects/SDG/GAPFISH/data/gap16/analysis/cranial_ganglia/cranial-ganglia_bb_res_list_36-48-72hpf_foxi1-phox2a-tfap-foxd3_df.csv", 
+res_df <- fread("data/cranial-ganglia_bb_res_list_36-48-72hpf_foxi1-phox2a-tfap-foxd3_df.csv", 
                sep = ",", data.table = F, stringsAsFactors = F, na.strings = "")
 
 # filter results

@@ -18,7 +18,7 @@ source("saunders_srivatsan_2023_utils.R")
  
 # Load data --------------------------------------------------------
 
-ref_cds <- readRDS("data/reference_cds.RDS")
+ref_cds <- readRDS("reference_cds.RDS") # download from ZSCAPE
 
 ref_coldata <-  
   ref_cds %>%

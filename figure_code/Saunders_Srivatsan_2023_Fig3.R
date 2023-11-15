@@ -285,7 +285,7 @@ ggsave("Fig3d_hindbrain_hb-targets_all-timepoints_celltypebroad_umap.png",
 hb_cds <- readRDS("data/hindbrain-targets2_hb-mn-cells_18-36h_66k_cds.RDS")
 
 # coldspot analysis results
-all_bind_hs_df <- fread("data/hindbrain-subset_all-types-together_coldspot-results_220121.csv", 
+all_bind_hs_df <- fread("data/hindbrain-subset_all-types-together_coldspot-results.csv", 
                         stringsAsFactors = F, sep = ",", data.table = F)
 
 coldspot_summary <- all_bind_hs_df %>% 
