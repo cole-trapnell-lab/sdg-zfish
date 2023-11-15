@@ -8,7 +8,7 @@ If you have quesitons or need help, either submit a github issue or email <p>Lau
 
 #### To cite our work, please use: 
 
-Saunders LM/*,  Srivatsan SR/*, Duran M, Dorrity MW, Ewing B, Linbo TH, Shendure J, Raible DW, Moens CW, Kimelman D^, Trapnell C^. Embryo-scale reverse genetics at single cell resolution. Nature. 2023 Nov 15; doi: 10.1038/s41586-023-06720-2.
+Saunders LM*,  Srivatsan SR*, Duran M, Dorrity MW, Ewing B, Linbo TH, Shendure J, Raible DW, Moens CW, Kimelman D^, Trapnell C^. Embryo-scale reverse genetics at single cell resolution. Nature. 2023 Nov 15; doi: 10.1038/s41586-023-06720-2.
 
 \* these authors contributed equally<br>
 ^ co-corresponding authors
