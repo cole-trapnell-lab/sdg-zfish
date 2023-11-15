@@ -1,16 +1,14 @@
-# Zebrafish Single Cell Atlas of Perturbed Embryos (ZSCAPE)
+## Embryo-scale reverse genetics at single-cell resolution
 
-## Table of Contents
+This code and associated data accompanies the publiation [Saunders, Srivatsan, et al. _Nature_ (2023)](https://www.nature.com/articles/s41586-023-06720-2) and contains information for rendering plots in the main figures (along with source data) and key analyses of the paper. 
 
-- [Introduction](#introduction)
-- [License](#license)
+The data itself is available via our [ZSCAPE website](https://cole-trapnell-lab.github.io/zscape/) or via the GEO repository under accession number [GSE202639](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202639).
 
-## Introduction
+To cite our work, please use: 
 
-This code accompanies the publication [Saunders, L., Srivatsan, S. et al., bioRxiv (2022).](https://doi.org/10.1101/2022.08.04.502764) and contains information for rendering plots in the main figures (along with source data) and key analyses of the paper. 
+Saunders LM*,  Srivatsan SR*, Duran M, Dorrity MW, Ewing B, Linbo TH, Shendure J, Raible DW, Moens CW, Kimelman D^, Trapnell C^. Embryo-scale reverse genetics at single cell resolution. Nature. 2023 Nov 15; doi: 10.1038/s41586-023-06720-2.
 
-The data itself is available via our [ZSCAPE website](https://zscape_site.url.temp). Or via the GEO repository under accession number [GSE202639](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202639).
-
-## License
+* these authors contributed equally
+^ co-corresponding authors
 
 This project is licensed under the MIT License.
